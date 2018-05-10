@@ -21,7 +21,7 @@
 \LoadClass{\baseclass}
 \newcommand\bhrule{\typeout{------------------------------------------------------------------------------}}
 %Project Directory
-\def \cwpth {/home/Thesis/ssvep/scripts/DiplomaThesis/}
+\def \cwpth {/home/el11555/Thesis/ssvep/scripts/DiplomaThesis/}
 
 \def\ano{\textperiodcentered \,}
 % \newcommand\Declaration[1]{
@@ -110,7 +110,7 @@ edge[every join,#1]#2(\tikzchaincurrent)\fi}}}
 ]{biblatex}
 
 %\addbibresource{<database>.<extension>}
-\bibliography{ Bibliography}  % The references (bibliography) information are stored in the file named "Bibliography.bib"
+\bibliography{\cwpth mendeley}  % The references (bibliography) information are stored in the file named "Bibliography.bib"
 \RequirePackage{verbatim}  % Needed for the "comment" environment to make LaTeX comments
 %%\RequirePackage{vector}  % Allows "\bvec{}" and "\buvec{}" for "blackboard" style bold vectors in maths
 \RequirePackage{float}% http://ctan.org/pkg/float

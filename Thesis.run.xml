@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>Thesis.aux</file>
@@ -51,10 +51,8 @@
       <file>Thesis.bbl</file>
     </requires>
     <requires type="static">
-      <file>blx-dm.def</file>
       <file>blx-compat.def</file>
-      <file>blx-bibtex.def</file>
-      <file>biblatex.def</file>
+      <file>biblatex_legacy.def</file>
       <file>numeric.bbx</file>
       <file>standard.bbx</file>
       <file>numeric.cbx</file>
@@ -62,7 +60,7 @@
       <file>greek.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -83,7 +81,7 @@
       <file>Thesis-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>/home/nikos/Dropbox/TEX/GraduateThesis/Bibliography.bib</file>
+      <file>/home/el11555/Thesis/ssvep/scripts/DiplomaThesis/mendeley.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>
