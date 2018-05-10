@@ -21,7 +21,7 @@
 \LoadClass{\baseclass}
 \newcommand\bhrule{\typeout{------------------------------------------------------------------------------}}
 %Project Directory
-\def \cwpth {/home/nikos/Dropbox/TEX/GraduateThesis/}
+\def \cwpth {/home/Thesis/ssvep/scripts/DiplomaThesis/}
 
 \def\ano{\textperiodcentered \,}
 % \newcommand\Declaration[1]{
