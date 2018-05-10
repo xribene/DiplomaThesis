@@ -1,0 +1,41 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.1}{\ignorespaces Αποτελέσματα 4 μετρικών για την ανίχνευση αντικειμένων πάνω σε όλα τα βίντεο του συνόλου δεδομένων test που χρησιμοποιήσαμε. Παρατηρούμε ότι με σύζευξη λόγου και εικόνας μπορούμε να πετύχουμε ικανοποιητικά αποτελέσματα, πολύ πιο εύρωστα από ό,τι με χρήση μόνο ενός από τους δύο τρόπους.\relax }}{62}{table.caption.103}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {6.1}{\ignorespaces Αποτελέσματα των μεθόδων που αξιοποιούν μόνο πληροφορία χαμηλού επιπέδου Όρασης Υπολογιστών. Η προτεινόμενη μέθοδος φαίνεται ότι υπερισχύει των υπολοίπων και ότι η χρήση $\chi ^2$ πυρήνα είναι απαραίτητη.\relax }}{81}{table.caption.143}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {6.2}{\ignorespaces Αποτελέσματα των μεθόδων που αξιοποιούν και πληροφορία αντικειμένων σε σύγκριση. Βλέπουμε ότι τα ποσοστά ανεβήκαν και ότι η ανάγκη για $\chi ^2$ μετασχηματισμό υποχωρεί.\relax }}{82}{table.caption.145}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {6.3}{\ignorespaces Αποτελέσματα των μεθόδων που αξιοποιούν και πληροφορία τύπων λαβής. Υπάρχει μικρή βελτίωση στην απόδοση, ενώ η ανάγκη για $\chi ^2$ μετασχηματισμό εξαλείφεται.\relax }}{82}{table.caption.147}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {6.4}{\ignorespaces Αποτελέσματα των μεθόδων που προσαρμόζουν τις πιθανότητες στην έξοδο. Η υπόθεση στατιστικής ανεξαρτησίας των δύο καναλιών, οπτικής και γλωσσικής πληροφορίας ενσωματώνει σημασιολογία υψηλότερου επιπέδου η οποία συνεισφέρει σημαντικά στην αποτελεσματική ταξινόμηση.\relax }}{84}{table.caption.151}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {6.5}{\ignorespaces Συνολικά αποτελέσματα όλων των μεθόδων που δοκιμάσαμε. Βλέπουμε ότι το εύρος είναι 15\%, μια αξιόλογη βελτίωση από τη χρήση μόνο οπτικής πληροφορίας. Επιπλέον, η απλή σώρρευση χαρακτηριστικών είναι αρκετά ταχύτερη του υπολογισμού $\chi ^2$ πυρήνα.\relax }}{85}{table.caption.153}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {6.6}{\ignorespaces Σύγκριση αποτελεσμάτων της παγκόσμιας βιβλιογραφίας για το σύνολο δεδομένων MPII Cooking Activities. Επισημειώνονται με έντονα γράμματα η καλύτερη επίδοση \cite {cherian_2017} και η δική μας καλύτερη επίδοση, η οποία καταλαμβάνει τη δεύτερη θέση.\relax }}{85}{table.caption.154}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.1}{\ignorespaces Οι 65 δράσεις του συνόλου δεδομένων MPII Cooking Activities Dataset. Στα πειράματά μας, οι δράσεις put on cutting-board, read και smell ενσωματώνονται στην κατηγορία background activity και η δράση wash hands συνενώνεται με τη δράση wash hands.\relax }}{106}{table.caption.183}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.2}{\ignorespaces Τα 44 βίντεο του συνόλου δεδομένων MPII Cooking Activities Dataset. Από αυτά, χρησιμοποιούμε για εκπαίδευση όσα αφορούν τους δράστες 11 ως 15 και τα s08-d02 και s10-d10.\relax }}{106}{table.caption.184}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.3}{\ignorespaces Οι 92 κατηγορίες αντικειμένων που εμφανίζονται στα βίντεο του συνόλου MPII Cooking Activities Dataset και που χρησιμοποιούμε στα πειράματά μας.\relax }}{107}{table.caption.186}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {A.4}{\ignorespaces Παράδειγμα υποτίτλων για το βίντεο s08-d04. Όλοι οι χρόνοι αναφέρονται σε δευτερόλεπτα από την αρχή του βίντεο.\relax }}{108}{table.caption.189}
