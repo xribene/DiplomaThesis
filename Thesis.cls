@@ -65,6 +65,7 @@
 \RequirePackage{graphicx}
 \RequirePackage[space]{grffile}
 \RequirePackage{cleveref}
+
 \RequirePackage{relsize}
 \RequirePackage[scriptsize]{subfigure}
 \RequirePackage{booktabs}
@@ -92,7 +93,6 @@
 edge[every join,#1]#2(\tikzchaincurrent)\fi}}}
 %\makeatother %this command makes @ a normal letter, so in this context it is invalid.
 
-
 \RequirePackage[pdfpagemode={UseOutlines},bookmarks=true,bookmarksopen=true,
    bookmarksopenlevel=0,bookmarksnumbered=true,hypertexnames=false,
    colorlinks,linkcolor={blue},citecolor={blue},urlcolor={red},
@@ -100,7 +100,6 @@ edge[every join,#1]#2(\tikzchaincurrent)\fi}}}
 %\RequirePackage[square, numbers, comma, sort&compress]{natbib}  % Use the "Natbib" style for the references in the Bibliography
 %\RequirePackage[backend=bibtex]{biblatex}
 \RequirePackage{csquotes}
-
 \RequirePackage[
   language=greek,
   backend=bibtex,
