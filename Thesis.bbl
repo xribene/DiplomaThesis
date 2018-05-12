@@ -1,0 +1,148 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Farwell1988TalkingPotentials}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Farwell}{F.}%
+     {L~A}{L.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Donchin}{D.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{FLADE1}
+  \strng{fullhash}{FLADE1}
+  \field{sortinit}{F}
+  \field{number}{6}
+  \field{pages}{510\bibrangedash 523}
+  \field{title}{{Talking off the top of your head: toward a mental prosthesis
+  utilizing event-related brain potentials}}
+  \field{volume}{70}
+  \field{journaltitle}{Electroencephalogr. Clin. Neurophysiol.}
+  \field{month}{12}
+  \field{year}{1988}
+\endentry
+
+\entry{Herculano-Houzel2009TheBrain}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Herculano-Houzel}{H.-H.}%
+     {Suzana}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HHS1}
+  \strng{fullhash}{HHS1}
+  \field{sortinit}{H}
+  \verb{doi}
+  \verb 10.3389/neuro.09.031.2009
+  \endverb
+  \field{isbn}{1662-5161 (Electronic){\textbackslash}n1662-5161 (Linking)}
+  \field{issn}{16625161}
+  \field{title}{{The human brain in numbers: a linearly scaled-up primate
+  brain}}
+  \field{journaltitle}{Frontiers in Human Neuroscience}
+  \field{year}{2009}
+\endentry
+
+\entry{Malmivuo2012Bioelectromagnetism:Fields}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Malmivuo}{M.}%
+     {Jaakko}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Plonsey}{P.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Bioelectricity, Biological cells, Biomagnetism, Electric fields,
+  Engineering science, Lead field theory, Magnetic fields, Tissues}
+  \strng{namehash}{MJPR1}
+  \strng{fullhash}{MJPR1}
+  \field{sortinit}{M}
+  \field{booktitle}{Bioelectromagnetism: Principles and Applications of
+  Bioelectric and Biomagnetic Fields}
+  \verb{doi}
+  \verb 10.1093/acprof:oso/9780195058239.001.0001
+  \endverb
+  \verb{eprint}
+  \verb 0402594v3
+  \endverb
+  \field{isbn}{9780199847839}
+  \field{issn}{15204804}
+  \field{title}{{Bioelectromagnetism: Principles and Applications of
+  Bioelectric and Biomagnetic Fields}}
+  \field{eprinttype}{arXiv}
+  \field{eprintclass}{cond-mat}
+  \field{year}{2012}
+\endentry
+
+\entry{Meng2011ABCI}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Meng}{M.}%
+     {Lijing}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jin}{J.}%
+     {Jing}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Xingyu}{X.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{MLJJWX1}
+  \strng{fullhash}{MLJJWX1}
+  \field{sortinit}{M}
+  \field{booktitle}{2011 4th International Conference on Biomedical Engineering
+  and Informatics (BMEI)}
+  \verb{doi}
+  \verb 10.1109/BMEI.2011.6098285
+  \endverb
+  \field{isbn}{978-1-4244-9352-4}
+  \field{pages}{584\bibrangedash 587}
+  \field{title}{{A comparison of three electrode channels selection methods
+  applied to SSVEP BCI}}
+  \verb{url}
+  \verb http://ieeexplore.ieee.org/document/6098285/
+  \endverb
+  \field{month}{10}
+  \field{year}{2011}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
