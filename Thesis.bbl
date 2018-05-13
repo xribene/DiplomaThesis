@@ -67,6 +67,38 @@
   \field{year}{2009}
 \endentry
 
+\entry{lopez2014dry}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Lopez-Gordo}{L.-G.}%
+     {Miguel~Angel}{M.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sanchez-Morillo}{S.-M.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Valle}{V.}%
+     {F~Pelayo}{F.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Multidisciplinary Digital Publishing Institute}%
+  }
+  \strng{namehash}{LGMASMDVFP1}
+  \strng{fullhash}{LGMASMDVFP1}
+  \field{sortinit}{L}
+  \field{number}{7}
+  \field{pages}{12847\bibrangedash 12870}
+  \field{title}{Dry EEG electrodes}
+  \field{volume}{14}
+  \field{journaltitle}{Sensors}
+  \field{year}{2014}
+\endentry
+
 \entry{Malmivuo2012Bioelectromagnetism:Fields}{book}{}
   \name{author}{2}{}{%
     {{}%
@@ -102,44 +134,35 @@
   \field{year}{2012}
 \endentry
 
-\entry{Meng2011ABCI}{inproceedings}{}
+\entry{sullivan2007low}{inproceedings}{}
   \name{author}{3}{}{%
     {{}%
-     {Meng}{M.}%
-     {Lijing}{L.}%
+     {Sullivan}{S.}%
+     {Thomas~J}{T.~J.}%
      {}{}%
      {}{}}%
     {{}%
-     {Jin}{J.}%
-     {Jing}{J.}%
+     {Deiss}{D.}%
+     {Stephen~R}{S.~R.}%
      {}{}%
      {}{}}%
     {{}%
-     {Wang}{W.}%
-     {Xingyu}{X.}%
+     {Cauwenberghs}{C.}%
+     {Gert}{G.}%
      {}{}%
      {}{}}%
   }
-  \list{publisher}{1}{%
+  \list{organization}{1}{%
     {IEEE}%
   }
-  \strng{namehash}{MLJJWX1}
-  \strng{fullhash}{MLJJWX1}
-  \field{sortinit}{M}
-  \field{booktitle}{2011 4th International Conference on Biomedical Engineering
-  and Informatics (BMEI)}
-  \verb{doi}
-  \verb 10.1109/BMEI.2011.6098285
-  \endverb
-  \field{isbn}{978-1-4244-9352-4}
-  \field{pages}{584\bibrangedash 587}
-  \field{title}{{A comparison of three electrode channels selection methods
-  applied to SSVEP BCI}}
-  \verb{url}
-  \verb http://ieeexplore.ieee.org/document/6098285/
-  \endverb
-  \field{month}{10}
-  \field{year}{2011}
+  \strng{namehash}{STJDSRCG1}
+  \strng{fullhash}{STJDSRCG1}
+  \field{sortinit}{S}
+  \field{booktitle}{Biomedical Circuits and Systems Conference, 2007. BIOCAS
+  2007. IEEE}
+  \field{pages}{154\bibrangedash 157}
+  \field{title}{A low-noise, non-contact EEG/ECG sensor}
+  \field{year}{2007}
 \endentry
 
 \lossort
