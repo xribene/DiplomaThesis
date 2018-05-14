@@ -32,7 +32,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.4}Διεπαφές εγκεφάλου – υπολογιστή (Brain Computer Interfaces)}{9}{section.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.1}Active BCIs}{10}{subsection.23}
+\contentsline {subsection}{\numberline {2.4.1}Active BCIs}{9}{subsection.23}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.2}Reactive BCIs}{10}{subsection.24}
 \defcounter {refsection}{0}\relax 
@@ -46,44 +46,52 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.5}Χαρακτηριστικά Εγκεφαλικά σήματα}{11}{section.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.1}Εγκεφαλικοί ρυθμοί }{11}{subsection.30}
+\contentsline {subsection}{\numberline {2.5.1}Εγκεφαλικοί ρυθμοί}{11}{subsection.30}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.2}Προκλητά Δυναμικά (ΠΔ)}{11}{subsection.31}
+\contentsline {subsection}{\numberline {2.5.2}Προκλητά Δυναμικά (ΠΔ)}{12}{subsection.32}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.2.1}Ενδογενή ΠΔ - P300}{11}{subsubsection.32}
+\contentsline {subsubsection}{\numberline {2.5.2.1}Ενδογενή ΠΔ - P300}{13}{subsubsection.33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.2.2}Εξωγενή ΠΔ - SSVEP}{13}{subsubsection.34}
+\contentsline {paragraph}{\numberline {2.5.2.1.1}Περιγραφή}{13}{paragraph.34}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Θεωρητικό υπόβαθρο}{15}{chapter.35}
+\contentsline {paragraph}{\numberline {2.5.2.1.2}Εφαρμογές}{13}{paragraph.35}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Αποθορυβοποίηση - Φιλτράρισμα}{15}{section.36}
+\contentsline {subsubsection}{\numberline {2.5.2.2}Εξωγενή ΠΔ - SSVEP}{14}{subsubsection.37}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Εξαγωγή χαρακτηριστικών}{15}{section.37}
+\contentsline {paragraph}{\numberline {2.5.2.2.1}Περιγραφή}{14}{paragraph.38}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Μηχανική Μάθηση}{15}{section.38}
+\contentsline {paragraph}{\numberline {2.5.2.2.2}Οπτική Διέγερση}{15}{paragraph.43}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Υλοποίηση SSVEP διεπαφής}{17}{chapter.39}
+\contentsline {chapter}{\numberline {3}Θεωρητικό υπόβαθρο}{17}{chapter.44}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Υλικό}{17}{section.40}
+\contentsline {section}{\numberline {3.1}Αποθορυβοποίηση - Φιλτράρισμα}{17}{section.45}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Εγκεφαλογράφος Emotiv Epoc}{17}{subsection.41}
+\contentsline {section}{\numberline {3.2}Εξαγωγή χαρακτηριστικών}{17}{section.46}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.1.1}Περιγραφή}{17}{subsubsection.42}
+\contentsline {section}{\numberline {3.3}Μηχανική Μάθηση}{17}{section.47}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.1.2}Ηλεκτρόδια}{18}{subsubsection.43}
+\contentsline {chapter}{\numberline {4}Υλοποίηση SSVEP διεπαφής}{19}{chapter.48}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.1.3}Λογισμικό}{18}{subsubsection.44}
+\contentsline {section}{\numberline {4.1}Υλικό}{19}{section.49}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}Υπολογιστής}{20}{subsection.45}
+\contentsline {subsection}{\numberline {4.1.1}Εγκεφαλογράφος Emotiv Epoc}{19}{subsection.50}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.3}Συστοιχίες LED}{20}{subsection.46}
+\contentsline {subsubsection}{\numberline {4.1.1.1}Περιγραφή}{19}{subsubsection.51}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.3.1}Επιλογή χρώματος LED}{20}{subsubsection.47}
+\contentsline {subsubsection}{\numberline {4.1.1.2}Ηλεκτρόδια}{20}{subsubsection.52}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.3.2}Σχηματικό και Κατασκευή}{21}{subsubsection.48}
+\contentsline {subsubsection}{\numberline {4.1.1.3}Λογισμικό}{20}{subsubsection.53}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.3.3}Κύκλωμα Οδήγησης}{21}{subsubsection.49}
+\contentsline {subsection}{\numberline {4.1.2}Υπολογιστής}{22}{subsection.54}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.3.4}Λογισμικό Arduino}{22}{subsubsection.50}
+\contentsline {subsection}{\numberline {4.1.3}Συστοιχίες LED}{22}{subsection.55}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Βιβλιογραφία}{25}{dummy.52}
+\contentsline {subsubsection}{\numberline {4.1.3.1}Επιλογή χρώματος LED}{22}{subsubsection.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.2}Σχηματικό και Κατασκευή}{23}{subsubsection.57}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.3}Κύκλωμα Οδήγησης}{23}{subsubsection.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.4}Λογισμικό Arduino}{24}{subsubsection.59}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Βιβλιογραφία}{27}{dummy.61}

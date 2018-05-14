@@ -4,11 +4,21 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Τοποθεσίες ηλεκτροδίων με βάση το σύστημα 10-20. Εικόνα από \cite {Malmivuo2012Bioelectromagnetism:Fields}. \relax }}{8}{figure.caption.20}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Τοποθεσίες ηλεκτροδίων με βάση το σύστημα 10-20. Εικόνα από \cite {Malmivuo1995-jf}. \relax }}{8}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Επέκταση συστήματος 10-20 . Εικόνα από \cite {Malmivuo2012Bioelectromagnetism:Fields}. \relax }}{9}{figure.caption.21}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Επέκταση συστήματος 10-20. Εικόνα από \cite {Malmivuo1995-jf}. \relax }}{9}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Παράδειγμα διέπαφης βασισμένης στα p300 σήματα, για την υλοποίηση μηχανής συλλαβισμού. Ο χρήστης συγκεντρώνεται στο επιθυμητό γράμμα (V), και παράγονται P300 σήματα, όταν φωτιστεί η γραμμή και η στήλη που το περιέχουν.\relax }}{12}{figure.caption.33}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Γραφική αναπαράσταση των φυσιολογικών κυματομορφών του εγκεφάλου. Εικόνα από \cite {Scarano2012-ok}\relax }}{12}{figure.caption.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Παράδειγμα διέπαφης βασισμένης στα P300 σήματα, για την υλοποίηση μηχανής συλλαβισμού. Ο χρήστης συγκεντρώνεται στο επιθυμητό γράμμα (V), και παράγονται P300 σήματα, όταν φωτιστεί η γραμμή και η στήλη που το περιέχουν.\relax }}{14}{figure.caption.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces my caption\relax }}{15}{figure.caption.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Figure A}}}{15}{figure.caption.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Figure B}}}{15}{figure.caption.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Ηλεκτρόδια που καλύπτουν τον ινιακό λοβό και την γύρω περιοχή.\relax }}{15}{figure.caption.39}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 

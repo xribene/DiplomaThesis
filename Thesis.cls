@@ -633,7 +633,7 @@ edge[every join,#1]#2(\tikzchaincurrent)\fi}}}
   \cleardoublepage
 }
 \addtocounter{secnumdepth}{1}
-\setcounter{tocdepth}{6}
+\setcounter{tocdepth}{3}
 \newcounter{dummy}
 \newcommand\addtotoc[1]{
 \refstepcounter{dummy}

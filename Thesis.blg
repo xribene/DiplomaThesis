@@ -19,49 +19,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Thesis-blx.bib
 Database file #2: mendeley.bib
-Warning--I didn't find a database entry for "Fazel-Rezai2012-mk"
+Warning--I didn't find a database entry for "lawrence_waves"
 Biblatex version: 3.3
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 12 entries,
+You've used 21 entries,
             6047 wiz_defined-function locations,
-            1231 strings with 15118 characters,
-and the built_in function-call counts, 42362 in all, are:
-= -- 1737
-> -- 1507
-< -- 453
-+ -- 560
-- -- 571
-* -- 3432
-:= -- 2667
+            1299 strings with 25750 characters,
+and the built_in function-call counts, 74581 in all, are:
+= -- 2997
+> -- 2663
+< -- 805
++ -- 950
+- -- 965
+* -- 5991
+:= -- 4531
 add.period$ -- 0
-call.type$ -- 12
-change.case$ -- 247
-chr.to.int$ -- 58
-cite$ -- 22
-duplicate$ -- 4654
-empty$ -- 4205
-format.name$ -- 923
-if$ -- 9507
+call.type$ -- 21
+change.case$ -- 433
+chr.to.int$ -- 118
+cite$ -- 40
+duplicate$ -- 8343
+empty$ -- 7510
+format.name$ -- 1603
+if$ -- 16710
 int.to.chr$ -- 0
-int.to.str$ -- 32
+int.to.str$ -- 61
 missing$ -- 0
-newline$ -- 413
-num.names$ -- 612
-pop$ -- 3591
+newline$ -- 718
+num.names$ -- 1100
+pop$ -- 6466
 preamble$ -- 1
-purify$ -- 291
+purify$ -- 507
 quote$ -- 0
-skip$ -- 2463
+skip$ -- 4331
 stack$ -- 0
-substring$ -- 1227
-swap$ -- 1683
-text.length$ -- 358
-text.prefix$ -- 15
+substring$ -- 2060
+swap$ -- 3019
+text.length$ -- 628
+text.prefix$ -- 32
 top$ -- 1
-type$ -- 444
+type$ -- 786
 warning$ -- 0
-while$ -- 276
+while$ -- 495
 width$ -- 0
-write$ -- 400
+write$ -- 696
 (There was 1 warning)

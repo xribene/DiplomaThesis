@@ -16,6 +16,26 @@
   {}
 \endgroup
 
+\entry{Berger1933-pg}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Berger}{B.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BH1}
+  \strng{fullhash}{BH1}
+  \field{sortinit}{B}
+  \field{number}{1}
+  \field{pages}{231\bibrangedash 254}
+  \field{title}{{\"U}ber das Elektrenkephalogramm des Menschen}
+  \field{volume}{98}
+  \field{journaltitle}{Archiv f{\"u}r Psychiatrie und Nervenkrankheiten}
+  \field{month}{12}
+  \field{year}{1933}
+\endentry
+
 \entry{blankertz2010berlin}{article}{}
   \true{moreauthor}
   \name{author}{10}{}{%
@@ -84,6 +104,29 @@
   \field{year}{2010}
 \endentry
 
+\entry{Bressler1990-im}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bressler}{B.}%
+     {S~L}{S.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{BSL1}
+  \strng{fullhash}{BSL1}
+  \field{sortinit}{B}
+  \field{number}{5}
+  \field{pages}{161\bibrangedash 162}
+  \field{title}{The gamma wave: a cortical information carrier?}
+  \field{volume}{13}
+  \field{journaltitle}{Trends Neurosci.}
+  \field{month}{05}
+  \field{year}{1990}
+\endentry
+
 \entry{Farwell1988TalkingPotentials}{article}{}
   \name{author}{2}{}{%
     {{}%
@@ -111,6 +154,101 @@
   \field{journaltitle}{Electroencephalogr. Clin. Neurophysiol.}
   \field{month}{12}
   \field{year}{1988}
+\endentry
+
+\entry{Fazel-Rezai2012-mk}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Fazel-Rezai}{F.-R.}%
+     {Reza}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Allison}{A.}%
+     {Brendan~Z}{B.~Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Guger}{G.}%
+     {Christoph}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sellers}{S.}%
+     {Eric~W}{E.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleih}{K.}%
+     {Sonja~C}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {K{\"u}bler}{K.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \keyw{P300; brain computer interface; event-related potential}
+  \strng{namehash}{FRR+1}
+  \strng{fullhash}{FRRABZGCSEWKSCKA1}
+  \field{sortinit}{F}
+  \field{abstract}{%
+  A brain-computer interface (BCI) enables communication without movement based
+  on brain signals measured with electroencephalography (EEG). BCIs usually
+  rely on one of three types of signals: the P300 and other components of the
+  event-related potential (ERP), steady state visual evoked potential (SSVEP),
+  or event related desynchronization (ERD). Although P300 BCIs were introduced
+  over twenty years ago, the past few years have seen a strong increase in P300
+  BCI research. This closed-loop BCI approach relies on the P300 and other
+  components of the ERP, based on an oddball paradigm presented to the subject.
+  In this paper, we overview the current status of P300 BCI technology, and
+  then discuss new directions: paradigms for eliciting P300s; signal processing
+  methods; applications; and hybrid BCIs. We conclude that P300 BCIs are quite
+  promising, as several emerging directions have not yet been fully explored
+  and could lead to improvements in bit rate, reliability, usability, and
+  flexibility.%
+  }
+  \field{pages}{14}
+  \field{title}{{P300} brain computer interface: current challenges and
+  emerging trends}
+  \field{volume}{5}
+  \field{journaltitle}{Front. Neuroeng.}
+  \field{month}{07}
+  \field{year}{2012}
+\endentry
+
+\entry{1935-sw}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{G W T}}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{G1}
+  \strng{fullhash}{G1}
+  \field{sortinit}{G}
+  \field{abstract}{%
+  The Berger Rhythm: Potential Changes from the Occipital Lobes in Man. (Brain,
+  vol. Ivii, p. 355, Dec, 1934.) Adrian, E. D., and Matthews, B. H. C. - Volume
+  81 Issue 335 - G. W. T. H. Fleming%
+  }
+  \field{number}{335}
+  \field{pages}{940\bibrangedash 940}
+  \field{title}{The Berger Rhythm: Potential Changes from the Occipital Lobes
+  in Man. (Brain, vol. Ivii, p. 355, Dec, 1934.) Adrian, E. D., and Matthews,
+  B. H. {C}}
+  \field{volume}{81}
+  \field{journaltitle}{J. Ment. Sci.}
+  \field{month}{10}
+  \field{year}{1935}
 \endentry
 
 \entry{Gordeev2007-pu}{article}{}
@@ -151,7 +289,7 @@
   \field{year}{2007}
 \endentry
 
-\entry{Herculano-Houzel2009TheBrain}{article}{}
+\entry{Herculano-Houzel2009-vm}{article}{}
   \name{author}{1}{}{%
     {{}%
      {Herculano-Houzel}{H.-H.}%
@@ -159,17 +297,45 @@
      {}{}%
      {}{}}%
   }
+  \list{language}{1}{%
+    {en}%
+  }
+  \keyw{brain scaling; encephalization; human; number of neurons}
   \strng{namehash}{HHS1}
   \strng{fullhash}{HHS1}
   \field{sortinit}{H}
-  \verb{doi}
-  \verb 10.3389/neuro.09.031.2009
-  \endverb
-  \field{isbn}{1662-5161 (Electronic){\textbackslash}n1662-5161 (Linking)}
-  \field{issn}{16625161}
-  \field{title}{{The human brain in numbers: a linearly scaled-up primate
-  brain}}
-  \field{journaltitle}{Frontiers in Human Neuroscience}
+  \field{abstract}{%
+  The human brain has often been viewed as outstanding among mammalian brains:
+  the most cognitively able, the largest-than-expected from body size, endowed
+  with an overdeveloped cerebral cortex that represents over 80\% of brain
+  mass, and purportedly containing 100 billion neurons and 10x more glial
+  cells. Such uniqueness was seemingly necessary to justify the superior
+  cognitive abilities of humans over larger-brained mammals such as elephants
+  and whales. However, our recent studies using a novel method to determine the
+  cellular composition of the brain of humans and other primates as well as of
+  rodents and insectivores show that, since different cellular scaling rules
+  apply to the brains within these orders, brain size can no longer be
+  considered a proxy for the number of neurons in the brain. These studies also
+  showed that the human brain is not exceptional in its cellular composition,
+  as it was found to contain as many neuronal and non-neuronal cells as would
+  be expected of a primate brain of its size. Additionally, the so-called
+  overdeveloped human cerebral cortex holds only 19\% of all brain neurons, a
+  fraction that is similar to that found in other mammals. In what regards
+  absolute numbers of neurons, however, the human brain does have two
+  advantages compared to other mammalian brains: compared to rodents, and
+  probably to whales and elephants as well, it is built according to the very
+  economical, space-saving scaling rules that apply to other primates; and,
+  among economically built primate brains, it is the largest, hence containing
+  the most neurons. These findings argue in favor of a view of cognitive
+  abilities that is centered on absolute numbers of neurons, rather than on
+  body size or encephalization, and call for a re-examination of several
+  concepts related to the exceptionality of the human brain.%
+  }
+  \field{pages}{31}
+  \field{title}{The human brain in numbers: a linearly scaled-up primate brain}
+  \field{volume}{3}
+  \field{journaltitle}{Front. Hum. Neurosci.}
+  \field{month}{11}
   \field{year}{2009}
 \endentry
 
@@ -205,8 +371,13 @@
   \field{year}{2014}
 \endentry
 
-\entry{Malmivuo2012Bioelectromagnetism:Fields}{book}{}
-  \name{author}{2}{}{%
+\entry{Malmivuo1995-jf}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Malmivuo}{M.}%
+     {Plonsey}{P.}%
+     {}{}%
+     {}{}}%
     {{}%
      {Malmivuo}{M.}%
      {Jaakko}{J.}%
@@ -218,26 +389,74 @@
      {}{}%
      {}{}}%
   }
-  \keyw{Bioelectricity, Biological cells, Biomagnetism, Electric fields,
-  Engineering science, Lead field theory, Magnetic fields, Tissues}
-  \strng{namehash}{MJPR1}
-  \strng{fullhash}{MJPR1}
+  \list{language}{1}{%
+    {en}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MPMJPR1}
+  \strng{fullhash}{MPMJPR1}
   \field{sortinit}{M}
-  \field{booktitle}{Bioelectromagnetism: Principles and Applications of
-  Bioelectric and Biomagnetic Fields}
-  \verb{doi}
-  \verb 10.1093/acprof:oso/9780195058239.001.0001
-  \endverb
-  \verb{eprint}
-  \verb 0402594v3
-  \endverb
-  \field{isbn}{9780199847839}
-  \field{issn}{15204804}
-  \field{title}{{Bioelectromagnetism: Principles and Applications of
-  Bioelectric and Biomagnetic Fields}}
-  \field{eprinttype}{arXiv}
-  \field{eprintclass}{cond-mat}
-  \field{year}{2012}
+  \field{abstract}{%
+  This book provides a general view of bioelectromagnetism and describes it as
+  an independent discipline. It begins with an historical account of the many
+  innovations and innovators on whose work the field rests. This is accompanied
+  by a discussion of both the theories and experiments which were contributed
+  to the development of the field. The physiological origin of bioelectric and
+  biomagnetic signal is discussed in detail. The sensitivity in a given
+  measurement situation, the energy distribution in stimulation with the same
+  electrodes, and the measurement of impedance are related and described by the
+  electrode lead field. It is shown that, based on the reciprocity theorem,
+  these are identical and further, that these procedures apply equally well for
+  biomagnetic considerations. The difference between corresponding bioelectric
+  and biomagnetic methods is discussed. The book shows, that all subfields of
+  bioelectromagnetism obey the same basic laws and they are closely tied
+  together through the principle of reciprocity. Thus the book helps the reader
+  to understand the properties of existing bioelectric and biomagnetic
+  measurements and stimulation methods and to design new systems. The book
+  includes about 300 carefully drawn illustrations and 500 references. It can
+  be used as a textbook for third or fourth year university students and as a
+  source of reference.%
+  }
+  \field{title}{Bioelectromagnetism: Principles and Applications of Bioelectric
+  and Biomagnetic Fields}
+  \field{year}{1995}
+\endentry
+
+\entry{Maquet2001-cs}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Maquet}{M.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{MP1}
+  \strng{fullhash}{MP1}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  Sleep has been implicated in the plastic cerebral changes that underlie
+  learning and memory. Indications that sleep participates in the consolidation
+  of fresh memory traces come from a wide range of experimental observations.
+  At the network level, reactivations during sleep of neuronal assemblies
+  recently challenged by new environmental circumstances have been reported in
+  different experimental designs. These neuronal assemblies are proposed to be
+  involved in the processing of memory traces during sleep. However, despite
+  this rapidly growing body of experimental data, evidence for the influence of
+  sleep discharge patterns on memory traces remains fragmentary. The underlying
+  role of sleep in learning and memory has yet to be precisely characterized.%
+  }
+  \field{number}{5544}
+  \field{pages}{1048\bibrangedash 1052}
+  \field{title}{The role of sleep in learning and memory}
+  \field{volume}{294}
+  \field{journaltitle}{Science}
+  \field{month}{11}
+  \field{year}{2001}
 \endentry
 
 \entry{nicolas2012brain}{article}{}
@@ -265,6 +484,80 @@
   \field{volume}{12}
   \field{journaltitle}{Sensors}
   \field{year}{2012}
+\endentry
+
+\entry{Oikonomou2016-te}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Oikonomou}{O.}%
+     {Vangelis~P}{V.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liaros}{L.}%
+     {Georgios}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Georgiadis}{G.}%
+     {Kostantinos}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chatzilari}{C.}%
+     {Elisavet}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Adam}{A.}%
+     {Katerina}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nikolopoulos}{N.}%
+     {Spiros}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kompatsiaris}{K.}%
+     {Ioannis}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OVP+1}
+  \strng{fullhash}{OVPLGGKCEAKNSKI1}
+  \field{sortinit}{O}
+  \field{abstract}{%
+  Brain-computer interfaces (BCIs) have been gaining momentum in making
+  human-computer interaction more natural, especially for people with
+  neuro-muscular disabilities. Among the existing solutions the systems relying
+  on electroencephalograms (EEG) occupy the most prominent place due to their
+  non-invasiveness. However, the process of translating EEG signals into
+  computer commands is far from trivial, since it requires the optimization of
+  many different parameters that need to be tuned jointly. In this report, we
+  focus on the category of EEG-based BCIs that rely on
+  Steady-State-Visual-Evoked Potentials (SSVEPs) and perform a comparative
+  evaluation of the most promising algorithms existing in the literature. More
+  specifically, we define a set of algorithms for each of the various different
+  parameters composing a BCI system (i.e. filtering, artifact removal, feature
+  extraction, feature selection and classification) and study each parameter
+  independently by keeping all other parameters fixed. The results obtained
+  from this evaluation process are provided together with a dataset consisting
+  of the 256-channel, EEG signals of 11 subjects, as well as a processing
+  toolbox for reproducing the results and supporting further experimentation.
+  In this way, we manage to make available for the community a state-of-the-art
+  baseline for SSVEP-based BCIs that can be used as a basis for introducing
+  novel methods and approaches.%
+  }
+  \verb{eprint}
+  \verb 1602.00904
+  \endverb
+  \field{title}{Comparative evaluation of state-of-the-art algorithms for
+  {SSVEP-based} {BCIs}}
+  \field{eprinttype}{arXiv}
+  \field{eprintclass}{cs.HC}
+  \field{month}{02}
+  \field{year}{2016}
 \endentry
 
 \entry{Perlman2013-sg}{article}{}
@@ -317,6 +610,142 @@
   \field{journaltitle}{Psychophysiology}
   \field{month}{10}
   \field{year}{2013}
+\endentry
+
+\entry{Regan1966-gn}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Regan}{R.}%
+     {D}{D}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{RD1}
+  \strng{fullhash}{RD1}
+  \field{sortinit}{R}
+  \field{number}{3}
+  \field{pages}{238\bibrangedash 248}
+  \field{title}{Some characteristics of average steady-state and transient
+  responses evoked by modulated light}
+  \field{volume}{20}
+  \field{journaltitle}{Electroencephalogr. Clin. Neurophysiol.}
+  \field{month}{03}
+  \field{year}{1966}
+\endentry
+
+\entry{Scarano2012-ok}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Scarano}{S.}%
+     {G}{G}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {La~Rocca}{L.~R.}%
+     {D}{D}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Campisi}{C.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \list{publisher}{1}{%
+    {IEEE Computer Society}%
+  }
+  \keyw{medical signal processing;biometrics (access
+  control);electroencephalography;EEG amplitude spectral density;automatic
+  person recognition;electroencephalography;biometric identifiers;spatial
+  distribution;EEG signal;Electroencephalography ;Biometrics (access
+  control);Computer security;Privacy;Data security;EEG;identity
+  sciences;biometrics;electroencephalography}
+  \strng{namehash}{SGLRDCP1}
+  \strng{fullhash}{SGLRDCP1}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  Electroencephalography is potentially more secure and privacy-compliant than
+  traditional biometric identifiers. A related video can be seen here:
+  http://youtu.be/5f0zflJRnvc. It depicts four maps representing the spatial
+  distribution on the scalp of an EEG signal in time for the four bands Delta,
+  Theta, Alpha, and Beta. Another related video can be seen here:
+  http://youtu.be/X34pUw-4z\_8. It depicts the spatial distribution on the
+  scalp of an EEG amplitude spectral density (top) for frequencies ranging in
+  the [1, 30] Hz interval (bottom).%
+  }
+  \field{number}{7}
+  \field{pages}{87\bibrangedash 89}
+  \field{title}{{EEG} for Automatic Person Recognition}
+  \field{journaltitle}{Computer}
+  \field{month}{07}
+  \field{year}{2012}
+\endentry
+
+\entry{Steriade1996-pg}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Steriade}{S.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Amzica}{A.}%
+     {F}{F}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Contreras}{C.}%
+     {D}{D}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{SMAFCD1}
+  \strng{fullhash}{SMAFCD1}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  We investigated the synchronization of fast spontaneous oscillations (mainly
+  30-40 Hz) in anesthetized and behaving cats by means of simultaneous extra-
+  and intracellular recordings from multiple neocortical areas. Fast Fourier
+  transforms, auto- and cross-correlations, and spike- or wave-triggered
+  averages were used to determine the frequency and temporal coherence of fast
+  oscillations that outlasted the stimulation of ascending activating systems
+  or that occurred naturally during behavioral states of waking and rapid eye
+  movement (REM) sleep but also appeared during the depolarizing phases of slow
+  sleep oscillations. In 90\% of microelectrode tracks, the fast oscillations
+  did not show field reversal at any depth of the cortex and were not
+  observable in the underlying white matter. The negative field potentials of
+  the fast oscillations were associated at all depths with neuronal firing.
+  This field potential property of fast oscillations was in sharp contrast to
+  the reversal of slow sleep oscillation or evoked potentials at depths of
+  0.25-0.5 mm. The coherence of fast spontaneous rhythms was spatially limited,
+  being confined within a cortical column and among closely located neocortical
+  sites, in contrast to the long-range synchronization of slow sleep rhythms.
+  Depolarizing current pulses elicited spike-bursts (200-400 Hz) recurring at a
+  frequency of 30-40 Hz. Our experiments demonstrate that the conventional
+  notion of a totally desynchronized cortical activity upon arousal should be
+  revised as fast rhythms are enhanced and synchronized within intracortical
+  networks during brain activation. Spontaneously occurring, subthreshold
+  membrane potential depolarizing oscillations may bias cortical and thalamic
+  neurons to respond synchronously, at fast frequencies, to relevant stimuli in
+  the wake state or to internally generated drives in REM sleep.%
+  }
+  \field{number}{1}
+  \field{pages}{392\bibrangedash 417}
+  \field{title}{Synchronization of fast (30-40 Hz) spontaneous cortical rhythms
+  during brain activation}
+  \field{volume}{16}
+  \field{journaltitle}{J. Neurosci.}
+  \field{month}{01}
+  \field{year}{1996}
 \endentry
 
 \entry{sullivan2007low}{inproceedings}{}
