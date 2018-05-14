@@ -4,6 +4,8 @@ The top-level auxiliary file: Thesis.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: Chapters/intro.aux
 A level-1 auxiliary file: Chapters/Chapter2.aux
+A level-1 auxiliary file: Chapters/Chapter3.aux
+A level-1 auxiliary file: Chapters/Chapter4.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -17,47 +19,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Thesis-blx.bib
 Database file #2: mendeley.bib
+Warning--I didn't find a database entry for "Fazel-Rezai2012-mk"
 Biblatex version: 3.3
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 6 entries,
+You've used 12 entries,
             6047 wiz_defined-function locations,
-            1178 strings with 9510 characters,
-and the built_in function-call counts, 18791 in all, are:
-= -- 754
-> -- 701
-< -- 208
-+ -- 257
-- -- 268
-* -- 1408
-:= -- 1294
+            1231 strings with 15118 characters,
+and the built_in function-call counts, 42362 in all, are:
+= -- 1737
+> -- 1507
+< -- 453
++ -- 560
+- -- 571
+* -- 3432
+:= -- 2667
 add.period$ -- 0
-call.type$ -- 6
-change.case$ -- 102
-chr.to.int$ -- 40
-cite$ -- 10
-duplicate$ -- 1944
-empty$ -- 1847
-format.name$ -- 369
-if$ -- 4286
+call.type$ -- 12
+change.case$ -- 247
+chr.to.int$ -- 58
+cite$ -- 22
+duplicate$ -- 4654
+empty$ -- 4205
+format.name$ -- 923
+if$ -- 9507
 int.to.chr$ -- 0
-int.to.str$ -- 13
+int.to.str$ -- 32
 missing$ -- 0
-newline$ -- 165
-num.names$ -- 266
-pop$ -- 1635
+newline$ -- 413
+num.names$ -- 612
+pop$ -- 3591
 preamble$ -- 1
-purify$ -- 119
+purify$ -- 291
 quote$ -- 0
-skip$ -- 1142
+skip$ -- 2463
 stack$ -- 0
-substring$ -- 552
-swap$ -- 700
-text.length$ -- 176
-text.prefix$ -- 6
+substring$ -- 1227
+swap$ -- 1683
+text.length$ -- 358
+text.prefix$ -- 15
 top$ -- 1
-type$ -- 216
+type$ -- 444
 warning$ -- 0
-while$ -- 147
+while$ -- 276
 width$ -- 0
-write$ -- 158
+write$ -- 400
+(There was 1 warning)
