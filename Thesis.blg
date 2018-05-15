@@ -19,13 +19,12 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Thesis-blx.bib
 Database file #2: mendeley.bib
-Warning--I didn't find a database entry for "lawrence_waves"
 Biblatex version: 3.3
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 You've used 21 entries,
             6047 wiz_defined-function locations,
-            1299 strings with 25750 characters,
+            1298 strings with 25736 characters,
 and the built_in function-call counts, 74581 in all, are:
 = -- 2997
 > -- 2663
@@ -64,4 +63,3 @@ warning$ -- 0
 while$ -- 495
 width$ -- 0
 write$ -- 696
-(There was 1 warning)

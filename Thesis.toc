@@ -52,15 +52,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.5.2.1}Ενδογενή ΠΔ - P300}{13}{subsubsection.33}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.5.2.1.1}Περιγραφή}{13}{paragraph.34}
+\contentsline {paragraph}{Περιγραφή}{13}{section*.34}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.5.2.1.2}Εφαρμογές}{13}{paragraph.35}
+\contentsline {paragraph}{Εφαρμογές}{13}{section*.35}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.5.2.2}Εξωγενή ΠΔ - SSVEP}{14}{subsubsection.37}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.5.2.2.1}Περιγραφή}{14}{paragraph.38}
+\contentsline {paragraph}{Περιγραφή}{14}{section*.38}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.5.2.2.2}Οπτική Διέγερση}{15}{paragraph.43}
+\contentsline {paragraph}{Οπτική Διέγερση}{15}{section*.40}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Θεωρητικό υπόβαθρο}{17}{chapter.44}
 \defcounter {refsection}{0}\relax 
