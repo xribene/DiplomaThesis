@@ -1,14 +1,14 @@
     % !TEX root = ../Thesis.tex
 % !TEX output_directory
 \documentclass[11pt,a4paper,english,greek,twoside]{../Thesis}
-\usepackage{subfig}
-\usepackage{subcaption} 
-\usepackage[demo]{graphicx}
-\usepackage{caption}
-\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
-                                    {-3.25ex \@plus1ex \@minus.2ex}% original: without the minus
-                                    {1.5ex plus .2ex}% original {-1em}%
-                                    {\normalfont\normalsize\bfseries}}
+%\usepackage{subfig}
+%\usepackage{subcaption} 
+%\usepackage[demo]{graphicx}
+%\usepackage{caption}
+% \renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+%                                     {-3.25ex \@plus1ex \@minus.2ex}% original: without the minus
+%                                     {1.5ex plus .2ex}% original {-1em}%
+%                                     {\normalfont\normalsize\bfseries}}
 \begin{document}
 \chapter{Ηλεκτροεγκεφαλογραφία}
 \section{Βιοηλεκτρικά Σήματα και Ηλεκτροεγκεφαλογράφημα}
@@ -155,6 +155,12 @@
       \label{subsec:visual_stimulus}  
       \par Ίσως ο πιο σημαντικός παράγοντας κατά την υλοποίηση της διεπαφής, και ένα από αυτά που επηρεάζουν πιο πολύ την ποιότητα του σήματος,  είναι ο τρόπος με τον οποίο θα επιτευχθεί η επαναλαμβανόμενη διέγερση στον αμφιβληστροειδή χιτώνα, προκειμένου να παραχθούν SSVEP σήματα στον ινιακό λοβό του εγκεφάλου. Κάνοντας μια ανασκόπηση στην βιβλιογραφία παρατηρούμε πως υπάρχουν δύο βασικοί τρόποι επίτευξης της επαναλαμβανόμενης οπτικής διέγερσης (ΕΟΔ) : α) Χρησιμοποιώντας εναλλασσόμενα μοτίβα που παράγονται σε οθόνες (συνήθως LCD) και β) Κάνοντας χρήση πηγών φωτός που αναβοσβήνουν
     
+    \begin{figure}
+    \centering     %%% not \center
+    \subfigure[Figure A]{\label{fig:a}\includegraphics[width=60mm]{{{ImagesSSVEP/occ_electrodes}.png}}}
+    \subfigure[Figure B]{\label{fig:b}\includegraphics[width=60mm]{{{ImagesSSVEP/occ_electrodes}.png}}}
+    \caption{my caption}
+    \end{figure}
     
 
 \end{document}
