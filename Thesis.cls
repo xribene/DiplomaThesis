@@ -632,7 +632,7 @@ edge[every join,#1]#2(\tikzchaincurrent)\fi}}}
      \lab{Εργαστήριο Ευφυών  Συστημάτων (ΕΕΥΣ)}
      \other{Ζωγράφου 157 73, Αθήνα}
      \authors     {Χριστόδουλου Θ. Μπενετάτου}
-     \author     {Χριστόδουλου Θ. Μπενετάτου}
+     \author     {Χριστόδουλος Θ. Μπενετάτος}
 \newenvironment{abstract}
 {
   \btypeout{Περίληψη}
