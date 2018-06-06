@@ -229,6 +229,21 @@ https://erpinfo.org/order-of-steps/
 \par Σημαντικό ρόλο παίζει η σειρά με την οποία εφαρμόζουμε καθεμία από τις διαδικασίες του pipeling, καθώς δεν είναι όλες γραμμικές. Για παράδειγμα 
 \par Βαλε εικονες απο καθε σταδιο pipeline, δλδ διαφορες του σηματος πριν και μετα απο κάθε διαδικασία.
 
+The most typical approach to remove noise from the EEG signal is to use band-pass filters, provided that
+the frequencies of the noise components do not overlap with the frequencies that convey the phenomena
+of interest. Band pass filters work by attenuating the frequencies of specific ranges while amplifying
+others. In our case, we mainly focus on the range of 5-48Hz, which is the range defined by the stimuli
+frequencies (see Section V) and their harmonics (up to the 4th order). This means that we can remove a
+large portion of noise related with EMG (high frequency noise), EOG (low frequency noise) and electrical
+current (in our case 50Hz).
+
+\par 2) Artifact removal: Despite the filtering of the signal some noise may still persist, such as the EOG
+artifacts that may be present in the 0-10Hz frequency range, such as the artifacts generated from eye
+blinks. For this purpose we need to follow an additional pre-processing step that is generally addressed as
+artifact removal. In the following, we provide details for two of most widely used approaches for artifact
+removal, namely AMUSE and Independent Component Analysis.
+
+\par Δεν χρησιμοποιησαμε ICA, 
 \textbf{Σημαντική Παρατήρηση}
 \par Μια σημαντική παράμετρος είναι η σειρά με την οποία θα γίνει το pipelining και το epoching. Υπάρχουν πολλοί λόγοι για να προτιμήσει κάποιος να γίνουν οι διαδικασίες του pipelining πρίν το epoching. Αρχικά .... \cite{}.
 \par Σε αυτή την εργασία όμως θα κάνουμε το αντίθετο για τον εξής λόγο. Ο απώτερος σκοπός της offline ανάλυσης είναι η εύρεση της καλύτερης μεθόδου έτσι ώστε να χρησιμοποιηθεί στην online εκδοχή της διεπαφής. Όπως γίνεται αντιληπτό, σ' αυτήν την περίπτωση δεν θα έχουμε πρόσβαση στο συνολικό εγκεφαλικό σήμα, παρά μόνο σε παράθυρα λίγων δευτερολέπτωνμ τα οποία αντιστοιχούν στα epochs της offline ανάλυσης. Συνεπώς τα στάδια του pipeline έγιναν μετά την κατάτμηση του συνολικού σήματος, σε κάθε epoch ξεχωριστά, έτσι ώστε να προσομοιώνεται καλύτερα η real-time (online) λειτουργία.
