@@ -4,22 +4,68 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Τοποθεσίες ηλεκτροδίων με βάση το σύστημα 10-20. Εικόνα από \cite {Malmivuo1995-jf}. \relax }}{8}{figure.caption.20}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Εικόνα (α), Η πρώτη συσκευή καταγραφής ΗΕΓ που κατέγραφε την κυματομορφή σε ταινία χαρτιού \cite {garceau1934amplifier, Gfa_undated-vb}. Εικόνα (β), O υπερσύγχρονος εγκεφαλογράφος της g.tec, μπορεί να καταγράφει ταυτόχρονα δεδομένα από 128 ηλεκτρόδια, ο ενισχυτής αναλαμβάνει την ενίσχυση και ψηφιοποίηση των σημάτων, τα οποία στέλνονται στην μονάδα επεξεργασίας και απεικόνισης. \relax }}{6}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Επέκταση συστήματος 10-20. Εικόνα από \cite {Malmivuo1995-jf}. \relax }}{9}{figure.caption.21}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{6}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Γραφική αναπαράσταση των φυσιολογικών κυματομορφών του εγκεφάλου. Εικόνα από \cite {Scarano2012-ok}\relax }}{12}{figure.caption.31}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{6}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Παράδειγμα διέπαφης βασισμένης στα P300 σήματα, για την υλοποίηση μηχανής συλλαβισμού. Ο χρήστης συγκεντρώνεται στο επιθυμητό γράμμα (V), και παράγονται P300 σήματα, όταν φωτιστεί η γραμμή και η στήλη που το περιέχουν.\relax }}{14}{figure.caption.36}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Δύο ηλεκτρόδια αργύρου-χλωριούχου αργύρου (Ag – AgCL), ένα μίας χρήσης (a) και ένα επαναχρησιμοποιούμενο (b). Εικόνα από \cite {Casson2018-fn}\relax }}{7}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Ηλεκτρόδια που καλύπτουν τον ινιακό λοβό και την γύρω περιοχή.\relax }}{15}{figure.caption.39}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces (a) Λεπτομέρεια από το εσωτερικό ενός στεγνού και ενεργού ηλεκτροδίου, όπου φαίνεται η πλακέτα του ενισχυτή \cite {Casson2018-fn}. (b) Χαρακτηριστικό παράδειγμα ακιδωτού ηλεκτροδίου από την g.tec, που έρχεται σε επαφή με το δέρμα χωρίς να το διαπερνάει\relax }}{8}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.6}{\ignorespaces my caption\relax }}{16}{figure.caption.41}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces (a) Ο ενισχυτής EEG-1142 της Braintronix, με ξεχωριστές αριθμημένες είσοδους για κάθε ηλεκτρόδιο, είναι ένα χαρακτηριστικό παράδειγμα των ενισχυτών που περιγράψαμε στην \ref {subsec:eeg_amp}. (b) Πρόγραμμα απεικόνισης εγκεφαλογραφήματος, καθώς και τρισδιάστασης αναπαράστασης του spectrogram του από την ScienceGL.\relax }}{9}{figure.caption.26}
 \defcounter {refsection}{0}\relax 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Figure A}}}{16}{figure.caption.41}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Τοποθεσίες ηλεκτροδίων με βάση το σύστημα 10-20. Εικόνα από \cite {Malmivuo1995-jf}. \relax }}{10}{figure.caption.30}
 \defcounter {refsection}{0}\relax 
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Figure B}}}{16}{figure.caption.41}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Επέκταση συστήματος 10-20. Εικόνα από \cite {Malmivuo1995-jf}. \relax }}{10}{figure.caption.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Γραφική αναπαράσταση των φυσιολογικών κυματομορφών του εγκεφάλου. Εικόνα από \cite {Scarano2012-ok}\relax }}{13}{figure.caption.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Παράδειγμα διέπαφης βασισμένης στα P300 σήματα, για την υλοποίηση μηχανής συλλαβισμού. Ο χρήστης συγκεντρώνεται στο επιθυμητό γράμμα (V), και παράγονται P300 σήματα, όταν φωτιστεί η γραμμή και η στήλη που το περιέχουν.\relax }}{15}{figure.caption.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces SSVEP σήματα που παράχθηκαν ώς αντίδραση στον εστιασμό των ματιών σε φωτεινή διέγερση συχνότητας $7.5Hz$. Παρατηρούμε πως εκτός από την κύρια συνιστώσα, έχουμε έντονες κορυφές και στις αρμονικές συχνότητες, δηλαδή $15Hz$ και $22.5Hz$. Εικόνα απο \cite {Saupe2009-wn}\relax }}{16}{figure.caption.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Ηλεκτρόδια που καλύπτουν τον ινιακό λοβό και την γύρω περιοχή, και στα οποία εμφανίζονται τα SSVEP σήματα.\relax }}{17}{figure.caption.50}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Κατανομή SNR σε κάθε συχνοτική περιοχή, όπου η κόκκινη γραμμή αναπαριστά την ενδιάμεση τιμή των μετρήσεων για 10 διαφορετικά άτομα. Εικόνα από \cite {kus2013quantification}\relax }}{18}{figure.caption.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Παράδειγμα ενός πλήρη κύκλου οπτικής διέγερσης για την περίπτωση μονών (a) και διπλών συμπληρωματικών (b) μοτίβων, καθώς και η μορφή των παραγόμενων SSVEPs, στα οποία φαίνεται πως για ίδια συχνότητα διέγερσης τα διπλά μοτίβα προκαλούν SSVEPs διπλάσιας συχνότητας. Εικόνα από \cite {Norcia2015-bi}\relax }}{19}{figure.caption.54}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Τα τέσσερα βασικά είδη φίλτρων με βάση τις ζώνες συχνοτήτων που επιτρέπουν-απορρίπτουν. Αξίζει να σημειωθεί πως οι υποφαινόμενες αποκρίσεις στο πεδίο της συχνότητας, αναφέρονται σε ιδανικά φίλτρα (brick-wall filters), και πως στα πραγματικά, οι ζώνες αποκοπής δεν ορίζονται ποτέ από κάθετες γραμμές.\relax }}{22}{figure.caption.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Οι τρείς διαφορετικές αποκρίσεις για δύο διαφορετικά φίλτρα 3ης τάξης και του αντίστοιχου ιδανικού. Φαίνεται ξεκάθαρα η διακύμανση (ripple) στην ζώνη διέλευσης για ένα φίλτρο τύπου Chebyshev, η οποία δεν υπάρχει στο Butterwoth, καθώς και η μεγάλη απόκλιση του Butterworth σε σχέση με το ιδανικό, όσον αφορά τις δύο ζώνες αποκοπής. \relax }}{23}{figure.caption.59}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Γεωμετρική ερμηνεία της PCA. a) Η αναπαράσταση ενός συνόλου δισδιάστατων δειγμάτων στο καρτεσιανό επίπεδο. b) Η PCA βρίσκει τις κατευθύνσεις μέγιστης μεταβλητότητας-διασποράς. Με το μάτι εύκολα καταλήγουμε πως η μέγιστη κατεύθυνση είναι η $u_1$, ενώ η $u_2$ είναι η αμέσως επόμενη ορθογώνια. c) Η περιστροφή των δεδομένων ως προς την νέα ορθογώνια βάση $(u_1,u_2)$. d) Ελάττωση της διάσταση των δειγμάτων, προβάλλοντας τα στον άξονα μέγιστης διακύμανσης.\relax }}{25}{figure.caption.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Γραφική αναπαράσταση του αλγορίθμου k-NN. Το μπλε αστέρι δηλώνει το δείγμα προς ταξινόμηση. Στην περίπτωση όπου K=3, τότε το δείγμα ταξινομείται στην κλάση 1, καθώς έχουμε δύο κύκλους και ένα τρίγωνο. Στην περίπτωση όπου K=7, τότε ταξινομείται στην κλάση 2, καθώς αυτή είναι η κλάση της πλειοψηφίας των γειτόνων.\relax }}{28}{figure.caption.80}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Ο ασύρματος εγκεφαλογράφος Epoc της εταιρείας Emotiv (a), και οι θέσεις που καλύπτουν τα 16 ηλεκτρόδια του, σύμφωνα με το σύστημα 10-20 (b).\relax }}{34}{figure.caption.95}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces βαλε και τις αλλες φωτο\relax }}{35}{figure.caption.99}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Το λογισμικό ελέγχου που συνοδεύει το Epoc, παρέχει ενδείξεις για την ποιότητα επαφής κάθε ηλεκτροδίου, την στάθμη της μπαταρίας καθώς και την ποιότητα της bluetooth σύνδεσης (a). Ο εικονικός κύβος που ο χρήστης μαθαίνει να ελέγχει με την σκέψη του (b). \relax }}{36}{figure.caption.102}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Ο πίνακας τιμών και ποιότητας για κάθε αισθητήρα (a) και η γραφική διεπαφή οπτικοποίησης των εγκεφαλικών σημάτων (b) που παρέχονται από την βιβλιοθήκη Emokit.\relax }}{37}{figure.caption.105}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Η γραφική διεπαφή που υλοποιήσαμε για την οπτικοποίηση επιλεγμένων καναλιών στο πεδίο του χρόνου και της συχνότητας. Στην αριστερή εικόνα o χρήστης είχε κλειστά μάτια και επιλέχθηκαν τα κανάλια Ο1 και Ο2 οπού φαίνονται ξεκάθαρα τα άλφα κύματα στα $10.5Hz$, ενώ στην δεξιά εικόνα ο χρήστης άνοιξε τα μάτια του, και προστέθηκε και το κανάλι P7.\relax }}{38}{figure.caption.108}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Η μια από τις τέσσερις LED συστοιχίες που υλοποιήσαμε, ο φυσικός σχεδιασμός της σε stripboard (a), καθώς και η μπροστινή (b) και οπίσθια (c) όψη της τελειωμένης κατασκευής\relax }}{40}{figure.caption.115}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.7}{\ignorespaces To κύκλωμα οδήγησης των LED. Ένα arduino Nano δίνει τα σήματα ελέγχου σε καθένα απο τα 8 τρανζίστορ για τον έλεγχο 4 LED συστοιχιών και 4 ενδεικτικών κόκκινων LED. \relax }}{41}{figure.caption.120}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Διάγραμμα που παρουσιάζει τα στάδια του offline συστήματος καταγραφής δεδομένων.\relax }}{43}{figure.caption.170}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Διάγραμμα που απεικονίζει την διαδικασία που ακολουθείται για την καταγραφή των δεδομένων, σύμφωνα με ένα πρωτόκολλο που σχεδιάστηκε για αυτή την εργασία\relax }}{45}{figure.caption.176}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Η οργάνωση των καταγραφών για κάθε χρήστη και κάθε συνεδρία (a).\relax }}{47}{figure.caption.179}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Οι τρεις από τις διαστάσεις του τετραδιάστατου πίνακα όπου αποθηκεύουμε τα σήματα μετά την κατάτμηση. Η τέταρτη διάσταση είναι οι διαφορετικές συχνότητες διέγερσης.\relax }}{47}{figure.caption.183}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }

@@ -36,6 +36,76 @@
   \field{year}{1933}
 \endentry
 
+\entry{berger1924innervation}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Berger}{B.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{BH1}
+  \strng{fullhash}{BH1}
+  \field{sortinit}{B}
+  \field{number}{1}
+  \field{pages}{216\bibrangedash 220}
+  \field{title}{Zur Innervation der Pia mater und der Gehirngef{\"a}{\ss}e}
+  \field{volume}{70}
+  \field{journaltitle}{Archiv f{\"u}r Psychiatrie und Nervenkrankheiten}
+  \field{year}{1924}
+\endentry
+
+\entry{Bieger2010-bv}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Bieger}{B.}%
+     {Jordi}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Garcia-Molina}{G.-M.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhu}{Z.}%
+     {Danhua}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BJGMGZD1}
+  \strng{fullhash}{BJGMGZD1}
+  \field{sortinit}{B}
+  \field{abstract}{%
+  Brain-Computer Interfaces (BCIs) enable people to control appliances without
+  involving the normal output pathways of peripheral nerves and muscles. A
+  particularly promising type of BCI is based on the Steady-State Visual Evoked
+  Potential (SSVEP). Users can select commands by focusing on visual stimuli
+  that alternate appearance with a certain frequency. The properties of these
+  stimuli, such as size and color, as well as the device they are rendered on,
+  can significantly affect the performance, comfort and safety of the system.
+  However, the choice of stimulation properties is often ad-hoc or copied. In
+  this paper we report our findings about the effects of rendering device,
+  refresh rate, environmental illumination, contrast, color, spatial frequency
+  and size of visual stimuli. In order to investigate these effects online, a
+  high-performance BCI was developed. User comfort was measured using a
+  questionnaire. The results suggest that high contrast stimulation works the
+  best, while also being the least comfortable. However, maximum black/white
+  contrast is often not needed and other stimuli (e.g. blue/green stimulation)
+  are shown to work almost as well, while being far more comfortable. Knowledge
+  of these effects can help to improve SSVEP-based BCIs.%
+  }
+  \field{booktitle}{Engineering in Medicine and Biology Society ({EMBC)}, 2010
+  Annual International Conference of the {IEEE}}
+  \field{title}{Effects of Stimulation Properties in {Steady-State} Visual
+  Evoked Potential Based {Brain-Computer} Interfaces}
+  \field{month}{08}
+  \field{year}{2010}
+\endentry
+
 \entry{blankertz2010berlin}{article}{}
   \true{moreauthor}
   \name{author}{10}{}{%
@@ -125,6 +195,252 @@
   \field{journaltitle}{Trends Neurosci.}
   \field{month}{05}
   \field{year}{1990}
+\endentry
+
+\entry{Calhoun1996-ei}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Calhoun}{C.}%
+     {G~L}{G.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McMillan}{M.}%
+     {G~R}{G.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{electroencephalography;interactive devices;visual evoked
+  potentials;EEG-based control;biofeedback;brain responses;human-computer
+  interaction;noninvasive scalp electrodes;steady-state visual evoked
+  response;Biomedical signal processing;Chemical industry;Communication system
+  control;Control systems;Electrodes;Electroencephalography;Force
+  control;Humans;Laboratories;Scalp}
+  \strng{namehash}{CGLMGR1}
+  \strng{fullhash}{CGLMGR1}
+  \field{sortinit}{C}
+  \field{abstract}{%
+  An interface whereby brain responses can control machines has been developed
+  by the Armstrong Laboratory. This EEG-based control uses the magnitude of the
+  steady-state visual evoked response (SSVER) as a control signal. The SSVER is
+  identified and monitored using non-invasive scalp electrodes and advanced
+  signal processing technology. With biofeedback, users learn to increase or
+  decrease the magnitude of the VSYER to an evoking stimulus. These responses
+  are translated into commands that control the operation of a physical device
+  or computer program. After further development this innovative interface
+  could revolutionize human interaction with complex systems%
+  }
+  \field{booktitle}{Human Interaction with Complex Systems, 1996. {HICS} '96.
+  Proceedings., Third Annual Symposium on}
+  \field{pages}{4\bibrangedash 9}
+  \field{title}{{EEG-based} control for human-computer interaction}
+  \field{month}{08}
+  \field{year}{1996}
+\endentry
+
+\entry{Cao2012-yb}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Cao}{C.}%
+     {Teng}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wan}{W.}%
+     {Feng}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mak}{M.}%
+     {Peng~Un}{P.~U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mak}{M.}%
+     {Pui-In}{P.-I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vai}{V.}%
+     {Mang~I}{M.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hu}{H.}%
+     {Yong}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{CT+1}
+  \strng{fullhash}{CTWFMPUMPIVMIHY1}
+  \field{sortinit}{C}
+  \field{abstract}{%
+  A critical problem in using steady-state visual evoked potential (SSVEP)
+  based brain-computer interfaces (BCIs) for clinical and commercial use is the
+  visual fatigue the user may suffer when staring at flashing stimuli. Aiming
+  at the design of user-friendly BCIs with satisfactory performance, this work
+  is to preliminarily investigate how different colors influence the SSVEP
+  (i.e. frequency or phase) and system performance. The results show that white
+  stimuli can lead to the highest performance, followed by gray, red, green and
+  blue stimuli.%
+  }
+  \field{pages}{1819\bibrangedash 1822}
+  \field{title}{Flashing color on the performance of {SSVEP-based}
+  brain-computer interfaces}
+  \field{volume}{2012}
+  \field{journaltitle}{Conf. Proc. IEEE Eng. Med. Biol. Soc.}
+  \field{year}{2012}
+\endentry
+
+\entry{Casson2018-fn}{incollection}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Casson}{C.}%
+     {Alex}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Abdulaal}{A.}%
+     {Mohammed}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dulabh}{D.}%
+     {Meera}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kohli}{K.}%
+     {Siddharth}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trimble}{T.}%
+     {Eleanor}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{others}}{o.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA+1}
+  \strng{fullhash}{CAAMDMKSTEo1}
+  \field{sortinit}{C}
+  \field{abstract}{%
+  The electroencephalogram (EEG) is a widely used non-invasive method for
+  monitoring the brain. It is based upon placing metal electrodes on the scalp
+  which measure the small electrical potentials that arise outside of the head
+  due to neuronal action within the brain. This chapter overviews the
+  fundamental basis of the EEG, the typical signals that are produced and how
+  they are collected and analysed. Significant attention is given to reviewing
+  the state of the art in EEG collection in both electrode designs and
+  instrumentation hardware. In particular, recent developments in ear-EEG and
+  in conformal tattoo electrodes for very long-term monitoring are highlighted.
+  The chapter concludes by overviewing the applications of EEG technology in
+  medical and non-medical domains, demonstrating the emergence of ``consumer
+  neuroscience'' applications as EEG devices become more available and more
+  readily useable by non-specialist operators.%
+  }
+  \field{booktitle}{Seamless Healthcare Monitoring}
+  \field{title}{Electroencephalogram}
+  \field{month}{01}
+  \field{year}{2018}
+\endentry
+
+\entry{Chu2017-uk}{inproceedings}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Chu}{C.}%
+     {Leeyee}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fern{\'a}ndez-Vargas}{F.-V.}%
+     {Jacobo}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kita}{K.}%
+     {Kahori}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yu}{Y.}%
+     {Wenwei}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CL+1}
+  \strng{fullhash}{CLFVJKKYW1}
+  \field{sortinit}{C}
+  \field{abstract}{%
+  Due to the low training time and high time resolution, steady state visual
+  evoked potential (SSVEP)-based brain computer interfaces (BCIs) have been
+  largely studied in recent years. The stimulus properties such as frequency,
+  color and shape can greatly affect the performance, comfort and safety of the
+  brain computer interfaces. Despite this fact, stimulation properties have
+  received fairly little attention. This study aims to investigate the
+  influence of stimulus color on SSVEPs. We tested 10 colors and did evaluation
+  by using three different methods: the power amplitude, multivariate
+  synchronization index, and canonical correlation analysis. The results showed
+  that violet color had the least influence to SSVEPs while red color tended to
+  have stronger impact.%
+  }
+  \field{booktitle}{International Conference on Intelligent Autonomous Systems}
+  \field{pages}{499\bibrangedash 509}
+  \field{title}{Influence of Stimulus Color on Steady State Visual Evoked
+  Potentials}
+  \field{volume}{531}
+  \field{month}{02}
+  \field{year}{2017}
+\endentry
+
+\entry{detommaso1999steady}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {DeTommaso}{D.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sciruicchio}{S.}%
+     {V}{V}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Guido}{G.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sasanelli}{S.}%
+     {G}{G}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Puca}{P.}%
+     {F}{F}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley Online Library}%
+  }
+  \strng{namehash}{DM+1}
+  \strng{fullhash}{DMSVGMSGPF1}
+  \field{sortinit}{D}
+  \field{number}{1}
+  \field{pages}{23\bibrangedash 26}
+  \field{title}{Steady-state visual-evoked potentials in headache: diagnostic
+  value in migraine and tension-type headache patients}
+  \field{volume}{19}
+  \field{journaltitle}{Cephalalgia}
+  \field{year}{1999}
 \endentry
 
 \entry{Farwell1988TalkingPotentials}{article}{}
@@ -251,6 +567,58 @@
   \field{year}{1935}
 \endentry
 
+\entry{garceau1934amplifier}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Garceau}{G.}%
+     {E~Lovett}{E.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Davis}{D.}%
+     {Hallowell}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {American Physiological Society}%
+  }
+  \strng{namehash}{GELDH1}
+  \strng{fullhash}{GELDH1}
+  \field{sortinit}{G}
+  \field{number}{2}
+  \field{pages}{305\bibrangedash 310}
+  \field{title}{An amplifier, recording system, and stimulating devices for the
+  study of cerebral action currents}
+  \field{volume}{107}
+  \field{journaltitle}{American Journal of Physiology-Legacy Content}
+  \field{year}{1934}
+\endentry
+
+\entry{Gfa_undated-vb}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{gfa}}{g.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{g1}
+  \strng{fullhash}{g1}
+  \field{sortinit}{G}
+  \field{abstract}{%
+  The First EEG Machine Undulator (EEG machine) This Western Union ink-writing
+  undulator was used in auditory studies as well as in recording the brain
+  waves of animal and human subjects. The undulator (also occasionally referred
+  to as a siphon or syphon recorder) was originally designed to record
+  incoming%
+  }
+  \field{booktitle}{Harvard University Brain Tour}
+  \field{howpublished}{\url{http://braintour.harvard.edu/archives/portfolio-items/undulator-eeg-machine}}
+  \field{note}{Accessed: 2018-5-18}
+  \field{title}{The First {EEG} Machine}
+\endentry
+
 \entry{Gordeev2007-pu}{article}{}
   \name{author}{1}{}{%
     {{}%
@@ -287,6 +655,27 @@
   \field{journaltitle}{Hum. Physiol.}
   \field{month}{04}
   \field{year}{2007}
+\endentry
+
+\entry{Gregory1978-lj}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gregory}{G.}%
+     {Richard~Langton}{R.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \list{publisher}{1}{%
+    {McGraw-Hill}%
+  }
+  \strng{namehash}{GRL1}
+  \strng{fullhash}{GRL1}
+  \field{sortinit}{G}
+  \field{title}{Eye and Brain: The Psychology of Seeing}
+  \field{year}{1978}
 \endentry
 
 \entry{Herculano-Houzel2009-vm}{article}{}
@@ -337,6 +726,169 @@
   \field{journaltitle}{Front. Hum. Neurosci.}
   \field{month}{11}
   \field{year}{2009}
+\endentry
+
+\entry{Hotelling1936-vk}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hotelling}{H.}%
+     {Harold}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{HH1}
+  \strng{fullhash}{HH1}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  HAROLD HOTELLING; RELATIONS BETWEEN TWO SETS OF VARIATES*, Biometrika, Volume
+  28, Issue 3-4, 1 December 1936, Pages 321--377,
+  https://doi.org/10.1093/biomet/28.%
+  }
+  \field{number}{3-4}
+  \field{pages}{321\bibrangedash 377}
+  \field{title}{{RELATIONS} {BETWEEN} {TWO} {SETS} {OF} {VARIATES}}
+  \field{volume}{28}
+  \field{journaltitle}{Biometrika}
+  \field{month}{12}
+  \field{year}{1936}
+\endentry
+
+\entry{kus2013quantification}{article}{}
+  \name{author}{10}{}{%
+    {{}%
+     {Ku{\'s}}{K.}%
+     {Rafa{\l}}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Duszyk}{D.}%
+     {Anna}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Milanowski}{M.}%
+     {Piotr}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{\L}ab{\k{e}}cki}{{\L}.}%
+     {Maciej}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bierzy{\'n}ska}{B.}%
+     {Maria}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Radzikowska}{R.}%
+     {Zofia}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Michalska}{M.}%
+     {Magdalena}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{\.Z}ygierewicz}{{\.Z}.}%
+     {Jaros{\l}aw}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Suffczy{\'n}ski}{S.}%
+     {Piotr}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Durka}{D.}%
+     {Piotr~Jerzy}{P.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Public Library of Science}%
+  }
+  \strng{namehash}{KR+1}
+  \strng{fullhash}{KRDAMPLMBMRZMMZJSPDPJ1}
+  \field{sortinit}{K}
+  \field{number}{10}
+  \field{pages}{e77536}
+  \field{title}{On the quantification of SSVEP frequency responses in human EEG
+  in realistic BCI conditions}
+  \field{volume}{8}
+  \field{journaltitle}{PloS one}
+  \field{year}{2013}
+\endentry
+
+\entry{lin2012snr}{inproceedings}{}
+  \name{author}{10}{}{%
+    {{}%
+     {Lin}{L.}%
+     {Fang-Cheng}{F.-C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zao}{Z.}%
+     {John~K}{J.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tu}{T.}%
+     {Kuan-Chung}{K.-C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Yijun}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Huang}{H.}%
+     {Yi-Pai}{Y.-P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chuang}{C.}%
+     {Che-Wei}{C.-W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kuo}{K.}%
+     {Hen-Yuan}{H.-Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chien}{C.}%
+     {Yu-Yi}{Y.-Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chou}{C.}%
+     {Ching-Chi}{C.-C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jung}{J.}%
+     {Tzyy-Ping}{T.-P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{LFC+1}
+  \strng{fullhash}{LFCZJKTKCWYHYPCCWKHYCYYCCCJTP1}
+  \field{sortinit}{L}
+  \field{booktitle}{Engineering in Medicine and Biology Society (EMBC), 2012
+  Annual International Conference of the IEEE}
+  \field{pages}{1810\bibrangedash 1814}
+  \field{title}{SNR analysis of high-frequency steady-state visual evoked
+  potentials from the foveal and extrafoveal regions of human retina}
+  \field{year}{2012}
 \endentry
 
 \entry{lopez2014dry}{article}{}
@@ -484,6 +1036,124 @@
   \field{volume}{12}
   \field{journaltitle}{Sensors}
   \field{year}{2012}
+\endentry
+
+\entry{Norcia2015-bi}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Norcia}{N.}%
+     {Anthony~M}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Appelbaum}{A.}%
+     {L~Gregory}{L.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ales}{A.}%
+     {Justin~M}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cottereau}{C.}%
+     {Benoit~R}{B.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rossion}{R.}%
+     {Bruno}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{NAM+1}
+  \strng{fullhash}{NAMALGAJMCBRRB1}
+  \field{sortinit}{N}
+  \field{abstract}{%
+  Periodic visual stimulation and analysis of the resulting steady-state visual
+  evoked potentials were first introduced over 80 years ago as a means to study
+  visual sensation and perception. From the first single-channel recording of
+  responses to modulated light to the present use of sophisticated digital
+  displays composed of complex visual stimuli and high-density recording
+  arrays, steady-state methods have been applied in a broad range of scientific
+  and applied settings.The purpose of this article is to describe the
+  fundamental stimulation paradigms for steady-state visual evoked potentials
+  and to illustrate these principles through research findings across a range
+  of applications in vision science.%
+  }
+  \field{number}{6}
+  \field{pages}{4}
+  \field{title}{The steady-state visual evoked potential in vision research: A
+  review}
+  \field{volume}{15}
+  \field{journaltitle}{J. Vis.}
+  \field{year}{2015}
+\endentry
+
+\entry{Nunez2006-li}{book}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Nunez}{N.}%
+     {Paul~L}{P.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{Emeritus Professor of Biomedical Engineering Paul L Nunez}}{E.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Srinivasan}{S.}%
+     {Ramesh}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{Assistant Professor of Cognitive Science Ramesh Srinivasan}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{NPL+1}
+  \strng{fullhash}{NPLESRA1}
+  \field{sortinit}{N}
+  \field{abstract}{%
+  Electroencephalography (EEG) is practiced by neurologists, cognitive
+  neuroscientists, and others interested in functional brain imaging. Whether
+  for clinical or experimental purposes, all studies share a common purpose-to
+  relate scalp potentials to the underlying neurophysiology. Electrical
+  potentials on the scalp exhibit spatial and temporal patterns that depend on
+  the nature and location of the sources and the way that currents and fields
+  spread through tissue. Because these dynamic patterns are correlated with
+  behavior and cognition, EEG provides a ``window on the mind,'' correlating
+  physiology and psychology. This classic and widely acclaimed text, originally
+  published in 1981, filled the large gap between EEG and the physical
+  sciences. It has now been brought completely up to date and will again serve
+  as an invaluable resource for understanding the principles of electric fields
+  in living tissue and for using hard science to study human consciousness and
+  cognition. No comparable volume exists for it is no easy task to explain the
+  problems of EEG in clear language, with mathematics presented mainly in
+  appendices. Among the many topics covered by the Second Edition are micro and
+  meso (intermediate scale) synaptic sources, electrode placement, choice of
+  reference, volume conduction, power and coherence measures, projection of
+  scalp potentials to dura surface, dynamic signatures of conscious experience,
+  neural networks immersed in global fields of synaptic action, and
+  physiological bases for brain source dynamics. The Second Edition is an
+  invaluable resource for neurologists, neuroscientists (especially cognitive
+  neuroscientists), biomedical engineers, and their students and trainees. It
+  will also appeal to physicists, mathematicians, computer scientists,
+  psychiatrists, and industrial engineers interested in EEG.%
+  }
+  \field{title}{Electric Fields of the Brain: The Neurophysics of {EEG}}
+  \field{year}{2006}
 \endentry
 
 \entry{Oikonomou2016-te}{article}{}
@@ -636,6 +1306,139 @@
   \field{year}{1966}
 \endentry
 
+\entry{regan1989human}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Regan}{R.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{RD2}
+  \strng{fullhash}{RD2}
+  \field{sortinit}{R}
+  \field{title}{Human brain electrophysiology: evoked potentials and evoked
+  magnetic fields in science and medicine}
+  \field{year}{1989}
+\endentry
+
+\entry{2015-of}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {{Richard Junior Manuel}}{R.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {M{\"u}ller}{M.}%
+     {Sandra Mara~Torres}{S.~M.~T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ferreira}{F.}%
+     {Andre}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bastos}{B.}%
+     {Teodiano~Freire}{T.~F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{R+1}
+  \strng{fullhash}{RMSMTFABTF1}
+  \field{sortinit}{R}
+  \field{abstract}{%
+  Introduction The main idea of a traditional Steady State Visually Evoked
+  Potentials (SSVEP)-BCI is the activation of commands through gaze control.
+  For this purpose, the retina of the eye is excited by a stimulus at a certain
+  frequency. Several studies have shown effects related to different kind of
+  stimuli, frequencies, window lengths, techniques of feature extraction and
+  even classification. So far, none of the previous studies has performed a
+  comparison of performance of stimuli colors through LED technology. This
+  study addresses precisely this important aspect and would be a great
+  contribution to the topic of SSVEP-BCIs. Additionally, the performance of
+  different colors at different frequencies and the visual comfort were
+  evaluated in each case. Methods LEDs of four different colors (red, green,
+  blue and yellow) flickering at four distinct frequencies (8, 11, 13 and 15
+  Hz) were used. Twenty subjects were distributed in two groups performing
+  different protocols. Multivariate Synchronization Index (MSI) was the
+  technique adopted as feature extractor. Results The accuracy was gradually
+  enhanced with the increase of the time window. From our observations, the red
+  color provides, in most frequencies, both highest rates of accuracy and
+  Information Transfer Rate (ITR) for detection of SSVEP. Conclusion Although
+  the red color has presented higher ITR, this color was turned in the less
+  comfortable one and can even elicit epileptic responses according to the
+  literature. For this reason, the green color is suggested as the best choice
+  according to the proposed rules. In addition, this color has shown to be safe
+  and accurate for an SSVEP-BCI.%
+  }
+  \field{title}{Comparison of the Influence of Stimuli Color on {Steady-State}
+  Visual Evoked Potentials}
+  \field{volume}{1}
+  \field{month}{07}
+  \field{year}{2015}
+\endentry
+
+\entry{Saupe2009-wn}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Saupe}{S.}%
+     {Katja}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schr{\"o}ger}{S.}%
+     {Erich}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Andersen}{A.}%
+     {S{\o}ren~K}{S.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {M{\"u}ller}{M.}%
+     {Matthias~M}{M.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \keyw{ASSR; SSVEP; human EEG; intermodal; supramodal; sustained attention}
+  \strng{namehash}{SK+1}
+  \strng{fullhash}{SKSEASKMMM1}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  We investigated intermodal attention effects on the auditory steady-state
+  response (ASSR) and the steady-state visual evoked potential (SSVEP). For
+  this purpose, 40-Hz amplitude-modulated tones and a stream of flickering (7.5
+  Hz) random letters were presented concurrently. By means of an auditory or
+  visual target detection task, participants' attention was directed to the
+  respective modality for several seconds. Attention to the auditory stream led
+  to a significant enhancement of the ASSR compared to when the visual stream
+  was attended. This attentional modulation was located mainly in the right
+  superior temporal gyrus. Vice versa, attention to the visual stream
+  especially increased the second harmonic response of the SSVEP. This
+  modulation was focused in the inferior occipital and lateral occipitotemporal
+  gyrus of both hemispheres. To the best of our knowledge, this is the first
+  demonstration of amplitude modulation of the ASSR and the SSVEP by intermodal
+  sustained attention. Our results open a new avenue of research to understand
+  the basic neural mechanisms of intermodal attention in the human brain.%
+  }
+  \field{pages}{58}
+  \field{title}{Neural mechanisms of intermodal sustained selective attention
+  with concurrently presented auditory and visual stimuli}
+  \field{volume}{3}
+  \field{journaltitle}{Front. Hum. Neurosci.}
+  \field{month}{11}
+  \field{year}{2009}
+\endentry
+
 \entry{Scarano2012-ok}{article}{}
   \name{author}{3}{}{%
     {{}%
@@ -685,6 +1488,52 @@
   \field{journaltitle}{Computer}
   \field{month}{07}
   \field{year}{2012}
+\endentry
+
+\entry{Singla2013-pd}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Singla}{S.}%
+     {Rajesh}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Khosla}{K.}%
+     {Arun}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jha}{J.}%
+     {Rameshwar}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SRKAJR1}
+  \strng{fullhash}{SRKAJR1}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  In recent years, Brain Computer Interface (BCI) systems based on Steady-State
+  Visual Evoked Potential (SSVEP) have received much attention. This study
+  tries to develop a SSVEP based BCI system that can control a wheelchair
+  prototype in five different positions including stop position. In this study
+  four different flickering frequencies in low frequency region were used to
+  elicit the SSVEPs and were displayed on a Liquid Crystal Display (LCD)
+  monitor using Lab-VIEW. Four stimuli colors, green, red, blue and violet were
+  used to investigate the color influence in SSVEPs. The Electroencephalogram
+  (EEG) signals recorded from the occipital region were segmented into 1 second
+  window and features were extracted by using Fast Fourier Transform (FFT).
+  One-Against-All (OAA), a popular strategy for multiclass SVM, is used to
+  classify SSVEP signals. During stimuli color comparison SSVEP with violet
+  color showed higher accuracy than that with green, red and blue stimuli.%
+  }
+  \field{number}{11}
+  \field{pages}{1050\bibrangedash 1055}
+  \field{title}{Influence of stimuli color on steady-state visual evoked
+  potentials based {BCI} wheelchair control}
+  \field{volume}{06}
+  \field{journaltitle}{J. Biomed. Sci. Eng.}
+  \field{month}{01}
+  \field{year}{2013}
 \endentry
 
 \entry{Steriade1996-pg}{article}{}
@@ -827,6 +1676,185 @@
   \field{year}{1965}
 \endentry
 
+\entry{Wang2015-oa}{inproceedings}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Wang}{W.}%
+     {H}{H}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhang}{Z.}%
+     {Y}{Y}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jin}{J.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {X}{X}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{brain-computer interfaces;electroencephalography;principal component
+  analysis;regression analysis;visual evoked potentials;CCA-based method;EEG
+  feature extraction;PCA;SSVEP recognition;artificial sine-cosine signals;brain
+  computer interface;canonical correlation
+  analysis;electroencephalogram;multivariate linear regression;principal
+  component analysis;steady-state visual evoked
+  potential;Correlation;Electroencephalography;Feature extraction;Principal
+  component analysis;Training data;Visualization;Yttrium;Brain-Computer
+  Interface (BCI);Canonical Correlation Analysis (CCA);Electroencephalogram
+  (EEG);Multivariate Linear Regression (MLR);Steady-State Visual Evoked
+  Potential (SSVEP);principal component analysis (PCA)}
+  \strng{namehash}{WH+1}
+  \strng{fullhash}{WHZYJJWX1}
+  \field{sortinit}{W}
+  \field{abstract}{%
+  Until now, the canonical correlation analysis (CCA)-based method has been
+  most widely applied to steady-state visual evoked potential (SSVEP).
+  Artificial sine-cosine signals are used as the original references in the CCA
+  method, which could hardly reflect the real SSVEP features buried in
+  electroencephalogram (EEG). In this study, we use principal component
+  analysis (PCA) to extract EEG features multivariate linear regression (MLR)
+  is implemented on EEG and the specific sample labels. Experimental results
+  show that the proposed MLR method outperformed other two competing methods
+  for SSVEP recognition, especially in short time window.%
+  }
+  \field{booktitle}{2015 {IEEE} International Conference on Computer and
+  Communications ({ICCC})}
+  \field{pages}{176\bibrangedash 180}
+  \field{title}{{SSVEP} recognition using multivariate linear regression for
+  brain computer interface}
+  \field{month}{10}
+  \field{year}{2015}
+\endentry
+
+\entry{wang2006practical}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Wang}{W.}%
+     {Yijun}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Ruiping}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gao}{G.}%
+     {Xiaorong}{X.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hong}{H.}%
+     {Bo}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gao}{G.}%
+     {Shangkai}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{WY+1}
+  \strng{fullhash}{WYWRGXHBGS1}
+  \field{sortinit}{W}
+  \field{number}{2}
+  \field{pages}{234\bibrangedash 240}
+  \field{title}{A practical VEP-based brain-computer interface}
+  \field{volume}{14}
+  \field{journaltitle}{IEEE Transactions on Neural Systems and Rehabilitation
+  Engineering}
+  \field{year}{2006}
+\endentry
+
+\entry{wu2008stimulator}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Wu}{W.}%
+     {Zhenghua}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lai}{L.}%
+     {Yongxiu}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Xia}{X.}%
+     {Yang}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wu}{W.}%
+     {Dan}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yao}{Y.}%
+     {Dezhong}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{WZ+1}
+  \strng{fullhash}{WZLYXYWDYD1}
+  \field{sortinit}{W}
+  \field{number}{8}
+  \field{pages}{1079\bibrangedash 1088}
+  \field{title}{Stimulator selection in SSVEP-based BCI}
+  \field{volume}{30}
+  \field{journaltitle}{Medical Engineering and Physics}
+  \field{year}{2008}
+\endentry
+
+\entry{yijun2005brain}{inproceedings}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Yijun}{Y.}%
+     {Wang}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ruiping}{R.}%
+     {Wang}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Xiaorong}{X.}%
+     {Gao}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shangkai}{S.}%
+     {Gao}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{YW+1}
+  \strng{fullhash}{YWRWXGSG1}
+  \field{sortinit}{Y}
+  \field{booktitle}{Neural Interface and Control, 2005. Proceedings. 2005 First
+  International Conference on}
+  \field{pages}{37\bibrangedash 39}
+  \field{title}{Brain-computer interface based on the high-frequency
+  steady-state visual evoked potential}
+  \field{year}{2005}
+\endentry
+
 \entry{Zander2010-ji}{incollection}{}
   \name{author}{4}{}{%
     {{}%
@@ -898,6 +1926,42 @@
   \list{location}{1}{%
     {London}%
   }
+  \field{year}{2010}
+\endentry
+
+\entry{zhu2010survey}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Zhu}{Z.}%
+     {Danhua}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bieger}{B.}%
+     {Jordi}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Molina}{M.}%
+     {Gary~Garcia}{G.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Aarts}{A.}%
+     {Ronald~M}{R.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Hindawi Publishing Corp.}%
+  }
+  \strng{namehash}{ZD+1}
+  \strng{fullhash}{ZDBJMGGARM1}
+  \field{sortinit}{Z}
+  \field{pages}{1}
+  \field{title}{A survey of stimulation methods used in SSVEP-based BCIs}
+  \field{volume}{2010}
+  \field{journaltitle}{Computational intelligence and neuroscience}
   \field{year}{2010}
 \endentry
 
