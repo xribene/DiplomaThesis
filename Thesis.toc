@@ -22,47 +22,47 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Εγκεφαλογράφος}{6}{section.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Ηλεκτρόδια}{6}{subsection.19}
+\contentsline {subsection}{\numberline {2.2.1}Ηλεκτρόδια}{7}{subsection.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Ενίσχυση και Επεξεργασία Σημάτων}{8}{subsection.24}
+\contentsline {subsection}{\numberline {2.2.2}Ενίσχυση και Επεξεργασία Σημάτων}{9}{subsection.24}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.3}Μονάδα Αποθήκευσης και Απεικόνισης Σημάτων}{9}{subsection.25}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Σύστημα 10-20}{9}{section.29}
+\contentsline {section}{\numberline {2.3}Σύστημα 10-20}{10}{section.29}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.4}Διεπαφές εγκεφάλου – υπολογιστή (Brain Computer Interfaces)}{11}{section.32}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.1}Active BCIs}{11}{subsection.33}
+\contentsline {subsection}{\numberline {2.4.1}Active BCIs}{12}{subsection.33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.2}Reactive BCIs}{11}{subsection.34}
+\contentsline {subsection}{\numberline {2.4.2}Reactive BCIs}{12}{subsection.34}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.3}Passive BCIs}{12}{subsection.35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.4}Κριτήρια Αξιολόγησης Απόδοσης των BCIs}{12}{subsection.36}
+\contentsline {subsection}{\numberline {2.4.4}Κριτήρια Αξιολόγησης Απόδοσης των BCIs}{13}{subsection.36}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.4.4.1}ITR}{12}{subsubsection.37}
+\contentsline {subsubsection}{\numberline {2.4.4.1}ITR}{13}{subsubsection.37}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.4.4.2}Accuracy}{12}{subsubsection.38}
+\contentsline {subsubsection}{\numberline {2.4.4.2}Accuracy}{13}{subsubsection.38}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Χαρακτηριστικά Εγκεφαλικά σήματα}{12}{section.39}
+\contentsline {section}{\numberline {2.5}Χαρακτηριστικά Εγκεφαλικά σήματα}{13}{section.39}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.1}Εγκεφαλικοί ρυθμοί}{12}{subsection.40}
+\contentsline {subsection}{\numberline {2.5.1}Εγκεφαλικοί ρυθμοί}{13}{subsection.40}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.2}Προκλητά Δυναμικά (ΠΔ)}{14}{subsection.42}
+\contentsline {subsection}{\numberline {2.5.2}Προκλητά Δυναμικά (ΠΔ)}{15}{subsection.42}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.2.1}Ενδογενή ΠΔ - P300}{14}{subsubsection.43}
+\contentsline {subsubsection}{\numberline {2.5.2.1}Ενδογενή ΠΔ - P300}{15}{subsubsection.43}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.5.2.1.1}Περιγραφή}{14}{paragraph.44}
+\contentsline {paragraph}{\numberline {2.5.2.1.1}Περιγραφή}{15}{paragraph.44}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.5.2.1.2}Εφαρμογές}{14}{paragraph.45}
+\contentsline {paragraph}{\numberline {2.5.2.1.2}Εφαρμογές}{15}{paragraph.45}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.2.2}Εξωγενή ΠΔ - SSVEP}{15}{subsubsection.47}
+\contentsline {subsubsection}{\numberline {2.5.2.2}Εξωγενή ΠΔ - SSVEP}{16}{subsubsection.47}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.5.2.2.1}Περιγραφή}{15}{paragraph.48}
+\contentsline {paragraph}{\numberline {2.5.2.2.1}Περιγραφή}{16}{paragraph.48}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.5.2.2.2}Επιλογή Συχνοτήτων των Οπτικών Διεγέρσεων}{17}{paragraph.51}
+\contentsline {paragraph}{\numberline {2.5.2.2.2}Επιλογή Συχνοτήτων των Οπτικών Διεγέρσεων}{18}{paragraph.51}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.5.2.2.3}Τύπος Οπτικής Διέγερσης}{18}{paragraph.53}
+\contentsline {paragraph}{\numberline {2.5.2.2.3}Τύπος Οπτικής Διέγερσης}{19}{paragraph.53}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Θεωρητικό υπόβαθρο}{21}{chapter.55}
 \defcounter {refsection}{0}\relax 
@@ -80,7 +80,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.4}κ-Κοντινότεροι Γείτονες - k-Nearest Neighbors (k-NN)}{28}{subsection.79}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.5}Πολυμεταβλητή Γραμμική Παλινδρόμηση - Multivariate Linear Regression (MLR)}{28}{subsection.81}
+\contentsline {subsection}{\numberline {3.2.5}Πολυμεταβλητή Γραμμική Παλινδρόμηση - Multivariate Linear Regression (MLR)}{29}{subsection.81}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Ανασκόπηση των Διεπαφών Εγκεφάλου - Υπολογιστή βασιζόμενων στο ΗΕΓ}{31}{chapter.88}
 \defcounter {refsection}{0}\relax 
@@ -100,52 +100,52 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.1.1.3}Λογισμικό}{35}{subsubsection.101}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}Υπολογιστής}{38}{subsection.111}
+\contentsline {subsection}{\numberline {5.1.2}Υπολογιστής}{39}{subsection.111}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.3}Συστοιχίες LED}{38}{subsection.112}
+\contentsline {subsection}{\numberline {5.1.3}Συστοιχίες LED}{39}{subsection.112}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.1.3.1}Επιλογή χρώματος LED}{39}{subsubsection.113}
+\contentsline {subsubsection}{\numberline {5.1.3.1}Επιλογή χρώματος LED}{40}{subsubsection.113}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.1.3.2}Σχηματικό και Κατασκευή}{40}{subsubsection.114}
+\contentsline {subsubsection}{\numberline {5.1.3.2}Σχηματικό και Κατασκευή}{41}{subsubsection.114}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.1.3.3}Κύκλωμα Οδήγησης}{40}{subsubsection.119}
+\contentsline {subsubsection}{\numberline {5.1.3.3}Κύκλωμα Οδήγησης}{41}{subsubsection.119}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.1.3.4}Λογισμικό Arduino}{41}{subsubsection.122}
+\contentsline {subsubsection}{\numberline {5.1.3.4}Λογισμικό Arduino}{42}{subsubsection.122}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Offline Καταγραφή των Σημάτων}{43}{section.168}
+\contentsline {section}{\numberline {5.2}Offline Καταγραφή των Σημάτων}{44}{section.168}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Περιγραφή Συστήματος}{43}{subsection.169}
+\contentsline {subsection}{\numberline {5.2.1}Περιγραφή Συστήματος}{44}{subsection.169}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Πειραματική διάταξη}{44}{subsection.172}
+\contentsline {subsection}{\numberline {5.2.2}Πειραματική διάταξη}{46}{subsection.172}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.3}Πρωτόκολλο Καταγραφής Δεδομένων}{44}{subsection.174}
+\contentsline {subsection}{\numberline {5.2.3}Πρωτόκολλο Καταγραφής Δεδομένων}{46}{subsection.174}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.2.3.1}Περιγραφή}{44}{subsubsection.175}
+\contentsline {subsubsection}{\numberline {5.2.3.1}Περιγραφή}{46}{subsubsection.175}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.2.3.2}Λογισμικό}{46}{subsubsection.178}
+\contentsline {subsubsection}{\numberline {5.2.3.2}Λογισμικό}{48}{subsubsection.178}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.4}Προεπεξεργασία δεδομένων}{47}{subsection.181}
+\contentsline {subsection}{\numberline {5.2.4}Προεπεξεργασία δεδομένων}{49}{subsection.181}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.2.4.1}Epoching}{47}{subsubsection.182}
+\contentsline {subsubsection}{\numberline {5.2.4.1}Epoching}{49}{subsubsection.182}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.2.4.2}Preprocessing Pipeline}{48}{subsubsection.184}
+\contentsline {subsubsection}{\numberline {5.2.4.2}Preprocessing Pipeline}{50}{subsubsection.184}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.5}Εξαγωγή Χαρακτηριστικών και Συστήματα Απόφασης}{50}{subsection.185}
+\contentsline {subsection}{\numberline {5.2.5}Εξαγωγή Χαρακτηριστικών και Συστήματα Απόφασης}{52}{subsection.185}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Μέθοδοι Φασματικής Ανάλυσης}{50}{section.186}
+\contentsline {section}{\numberline {5.3}Μέθοδοι Φασματικής Ανάλυσης}{53}{section.186}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.1}Ορισμός Μαθηματικής Σημειογραφίας}{50}{subsection.187}
+\contentsline {subsection}{\numberline {5.3.1}Ορισμός Μαθηματικής Σημειογραφίας}{53}{subsection.187}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.2}PSD}{50}{subsection.188}
+\contentsline {subsection}{\numberline {5.3.2}PSD}{53}{subsection.188}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.3}PSD-Gaussian Mixture Filtering}{51}{subsection.190}
+\contentsline {subsection}{\numberline {5.3.3}PSD - Gaussian Mixture Filtering}{54}{subsection.190}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.4}Μέθοδοι βασισμένοι στην CCA}{51}{subsection.192}
+\contentsline {subsection}{\numberline {5.3.4}Μέθοδοι βασισμένοι στην CCA}{55}{subsection.195}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.5}Συνδιαστική μέθοδος PCA - MLR - kNN}{51}{subsection.193}
+\contentsline {subsection}{\numberline {5.3.5}Συνδιαστική μέθοδος PCA - MLR - kNN}{57}{subsection.201}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Online διεπαφή}{51}{section.194}
+\contentsline {section}{\numberline {5.4}Online διεπαφή}{57}{section.202}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Αποτελέσματα - Συμπεράσματα}{53}{chapter.195}
+\contentsline {chapter}{\numberline {6}Αποτελέσματα - Συμπεράσματα}{59}{chapter.203}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Βιβλιογραφία}{55}{dummy.196}
+\contentsline {chapter}{Βιβλιογραφία}{61}{dummy.204}

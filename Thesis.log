@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.5.10)  14 JUN 2018 01:42
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.5.10)  16 JUN 2018 18:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1987,13 +1987,13 @@ Package biblatex Warning: Data encoding is 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' found.
 (./Thesis.bbl
-Invalid UTF-8 byte or sequence at line 2107 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2108 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2115 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2115 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2116 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2116 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2117 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2214 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2215 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2222 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2222 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2223 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2223 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2224 replaced by U+FFFD.
 )
 Package biblatex Info: Reference section=0 on input line 23.
 Package biblatex Info: Reference segment=0 on input line 23.
@@ -2115,11 +2115,18 @@ Overfull \hbox (1.48297pt too wide) in paragraph at lines 79--79
 (./Thesis.lof [13
 
 
-])
+] [14]
+Overfull \hbox (21.68523pt too wide) in paragraph at lines 71--71
+ [][]\EU1/LinuxLibertineO(0)/m/n/12 τέσσερις [][]πηγές [][]οπτικής [][]διέγερση
+ς [][]με [][]αντίστοιχες [][]συχνότητες $\OML/cmm/m/it/12 f[]; f[]; f[]; f[]$[]
+\EU1/LinuxLibertineO(0)/m/n/12 . 
+ []
+
+)
 \tf@lof=\write8
 \openout8 = `Thesis.lof'.
 
- [14] [15] [16
+ [15] [16
 
 ]
 ------------------------------------------------------------------------------
@@ -2157,18 +2164,21 @@ Overfull \hbox (1.48297pt too wide) in paragraph at lines 79--79
 ------------------------------------------------------------------------------
  2 Ηλεκτροεγκεφαλογραφία
 ------------------------------------------------------------------------------
+[5]
 File: Graphics/ImagesSSVEP/firstEEG.jpg Graphic file (type QTm)
-<use  "Graphics/ImagesSSVEP/firstEEG.jpg" >
+ <use  "Graphics/ImagesSSVEP/firstEEG.jpg" >
 File: Graphics/ImagesSSVEP/gtec_EEG_2.png Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/gtec_EEG_2.png" > [5] [6]
+<use  "Graphics/ImagesSSVEP/gtec_EEG_2.png" > [6]
 Missing character: There is no Ω in font cmmi12!
 Missing character: There is no Ω in font cmmi12!
 File: Graphics/ImagesSSVEP/wet_elec.png Graphic file (type QTm)
 
 <use  "Graphics/ImagesSSVEP/wet_elec.png" >
-File: Graphics/ImagesSSVEP/dry_active.png Graphic file (type QTm)
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Graphics/ImagesSSVEP/dry_active.png Graphic file (type QTm)
 <use  "Graphics/ImagesSSVEP/dry_active.png" >
 File: Graphics/ImagesSSVEP/gtec_dry.png Graphic file (type QTm)
 
@@ -2181,13 +2191,13 @@ File: Graphics/ImagesSSVEP/eeg_visual.png Graphic file (type QTm)
 <use  "Graphics/ImagesSSVEP/eeg_visual.png" > [9]
 File: Graphics/ImagesSSVEP/10_20.jpg Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/10_20.jpg" >
+<use  "Graphics/ImagesSSVEP/10_20.jpg" > [10]
 File: Graphics/ImagesSSVEP/10_20_ext.jpg Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/10_20_ext.jpg" > [10] [11] [12]
+<use  "Graphics/ImagesSSVEP/10_20_ext.jpg" > [11] [12] [13]
 File: Graphics/ImagesSSVEP/eeg_waves.jpg Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/eeg_waves.jpg" > [13]
+<use  "Graphics/ImagesSSVEP/eeg_waves.jpg" > [14]
 Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
@@ -2198,31 +2208,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--149
  []
 
 File: Graphics/ImagesSSVEP/p300_speller.png Graphic file (type QTm)
-<use  "Graphics/ImagesSSVEP/p300_speller.png" > [14]
+<use  "Graphics/ImagesSSVEP/p300_speller.png" > [15]
 Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-[15]
+[16]
 File: Graphics/ImagesSSVEP/ssvep_example.png Graphic file (type QTm)
  <use  "Graphics/ImagesSSVEP/ssvep_example.png" >
 File: Graphics/ImagesSSVEP/occ_electrodes.png Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/occ_electrodes.png" > [16] [17]
+<use  "Graphics/ImagesSSVEP/occ_electrodes.png" > [17] [18]
 File: Graphics/ImagesSSVEP/snr.JPG Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/snr.JPG" > [18]
+<use  "Graphics/ImagesSSVEP/snr.JPG" > [19]
 File: Graphics/ImagesSSVEP/patern_reversal.png Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/patern_reversal.png" >) [19]
+<use  "Graphics/ImagesSSVEP/patern_reversal.png" >) [20]
 \openout2 = `Chapters/Chapter3.aux'.
 
 
-(./Chapters/Chapter3.tex [20
-
-
-
-]
+(./Chapters/Chapter3.tex
 Κεφάλαιο 3.
 ------------------------------------------------------------------------------
  3 Θεωρητικό υπόβαθρο
@@ -2234,7 +2240,11 @@ Overfull \hbox (15.75096pt too wide) in paragraph at lines 9--10
  []
 
 File: Graphics/ImagesSSVEP/filter_types.png Graphic file (type QTm)
-<use  "Graphics/ImagesSSVEP/filter_types.png" > [21]
+<use  "Graphics/ImagesSSVEP/filter_types.png" > [21
+
+
+
+]
 File: Graphics/ImagesSSVEP/butter_cheby.png Graphic file (type QTm)
 
 <use  "Graphics/ImagesSSVEP/butter_cheby.png" > [22] [23]
@@ -2307,25 +2317,25 @@ File: Graphics/ImagesSSVEP/emotiv_elec_pos.png Graphic file (type QTm)
 ] [34]
 File: Graphics/ImagesSSVEP/sapia_elec.png Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/sapia_elec.png" >
+<use  "Graphics/ImagesSSVEP/sapia_elec.png" > [35]
 File: Graphics/ImagesSSVEP/xavier_quality.png Graphic file (type QTm)
 
 <use  "Graphics/ImagesSSVEP/xavier_quality.png" >
 File: Graphics/ImagesSSVEP/xavier_cube.jpg Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/xavier_cube.jpg" > [35] [36]
+<use  "Graphics/ImagesSSVEP/xavier_cube.jpg" > [36] [37]
 File: Graphics/ImagesSSVEP/examplepy.png Graphic file (type QTm)
 
 <use  "Graphics/ImagesSSVEP/examplepy.png" >
 File: Graphics/ImagesSSVEP/render.png Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/render.png" > [37]
+<use  "Graphics/ImagesSSVEP/render.png" > [38]
 File: Graphics/ImagesSSVEP/alpha_waves.png Graphic file (type QTm)
 
 <use  "Graphics/ImagesSSVEP/alpha_waves.png" >
 File: Graphics/ImagesSSVEP/randomP7.png Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/randomP7.png" > [38] [39]
+<use  "Graphics/ImagesSSVEP/randomP7.png" > [39] [40]
 File: Graphics/ImagesSSVEP/led_vero.png Graphic file (type QTm)
 
 <use  "Graphics/ImagesSSVEP/led_vero.png" >
@@ -2334,50 +2344,68 @@ File: Graphics/ImagesSSVEP/led_front2.png Graphic file (type QTm)
 <use  "Graphics/ImagesSSVEP/led_front2.png" >
 File: Graphics/ImagesSSVEP/led_back.png Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/led_back.png" > [40]
+<use  "Graphics/ImagesSSVEP/led_back.png" > [41]
 File: Graphics/ImagesSSVEP/driver_circuit.png Graphic file (type QTm)
 
 <use  "Graphics/ImagesSSVEP/driver_circuit.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+[42] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
-(./Code/blink_timer.ino [41])
+(./Code/blink_timer.ino [43])
 File: Graphics/ImagesSSVEP/offline_analysis.png Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/offline_analysis.png" > [42] [43]
+<use  "Graphics/ImagesSSVEP/offline_analysis.png" > [44] [45]
 File: Graphics/ImagesSSVEP/protocol.png Graphic file (type QTm)
 
 <use  "Graphics/ImagesSSVEP/protocol.png" >
-Overfull \hbox (44.25255pt too wide) in paragraph at lines 184--185
+Overfull \hbox (44.25255pt too wide) in paragraph at lines 185--186
  [][] 
  []
 
-[44] [45]
+[46] [47] [48]
 File: Graphics/ImagesSSVEP/dir_tree.png Graphic file (type QTm)
- <use  "Graphics/ImagesSSVEP/dir_tree.png" > [46]
+ <use  "Graphics/ImagesSSVEP/dir_tree.png" >
 File: Graphics/ImagesSSVEP/epoch_matrix.png Graphic file (type QTm)
 
-<use  "Graphics/ImagesSSVEP/epoch_matrix.png" > [47]
+<use  "Graphics/ImagesSSVEP/epoch_matrix.png" > [49]
 Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
-[48] [49] [50]) [51]
+[50] [51] [52]
+Missing character: There is no Ν in font cmmi12!
+ [53]
+File: Graphics/LatexDiagrams/GMM___diagram.pdf Graphic file (type QTm)
+ <use  "Graphics/LatexDiagrams/GMM___diagram.pdf" >
+Overfull \hbox (45.59581pt too wide) in paragraph at lines 284--285
+ [][] 
+ []
+
+[54] [55]
+File: Graphics/ImagesSSVEP/cca_bci.png Graphic file (type QTm)
+ <use  "Graphics/ImagesSSVEP/cca_bci.png" >
+
+LaTeX Warning: Citation 'Bin2009-lt' on page 56 undefined on input line 328.
+
+
+LaTeX Warning: Citation 'Bin2009-lt' on page 56 undefined on input line 328.
+
+[56]) [57]
 \openout2 = `Chapters/Chapter6.aux'.
 
- (./Chapters/Chapter6.tex [52
+ (./Chapters/Chapter6.tex [58
 
 
 
@@ -2386,7 +2414,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--227
 ------------------------------------------------------------------------------
  6 Αποτελέσματα - Συμπεράσματα
 ------------------------------------------------------------------------------
-) [53] [54
+) [59] [60
 
 
 ]
@@ -2405,9 +2433,15 @@ Overfull \hbox (7.4559pt too wide) in paragraph at lines 137--137
 ual-evoked potentials in headache: diagnostic
  []
 
-[55
+[61
 
 ]
+Underfull \hbox (badness 1688) in paragraph at lines 137--137
+[]\EU1/LinuxLibertineO(0)/m/n/12 Zhonglin Lin []κ[].[]ά[]. []“  Frequency recog
+nition based on canonical correlation
+ []
+
+[62]
 LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 135
 .
  (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
@@ -2430,13 +2464,13 @@ Underfull \hbox (badness 1742) in paragraph at lines 137--137
  Iacono. “  P300 amplitude
  []
 
-[56]
+
 Underfull \hbox (badness 1107) in paragraph at lines 137--137
 \EU1/LinuxLibertineO(0)/m/it/12 Transactions on Neural Systems and Rehabilitati
 on Engineering \EU1/LinuxLibertineO(0)/m/n/12 14.2 (2006),
  []
 
-
+[63]
 Overfull \hbox (3.17288pt too wide) in paragraph at lines 137--137
 \EU1/LinuxLibertineO(0)/m/n/12 state visual evoked potential”. []Στο[]: \EU1/Li
 nuxLibertineO(0)/m/it/12 Neural Interface and Control, 2005. Proceedings.
@@ -2448,9 +2482,7 @@ Underfull \hbox (badness 1092) in paragraph at lines 137--137
 s”. []Στο[]: \EU1/LinuxLibertineO(0)/m/it/12 Brain-Computer
  []
 
-[57] [58
-
-]
+[64]
 ------------------------------------------------------------------------------
  Βιβλιογραφία
 ------------------------------------------------------------------------------
@@ -2462,18 +2494,27 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
 (./Chapters/Chapter6.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 140.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 140.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                Thesis
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
  )
 (\end occurred when \iftrue on line 23 was incomplete) 
 Here is how much of TeX's memory you used:
- 50828 strings out of 493638
- 962908 string characters out of 6146796
- 1325742 words of memory out of 5000000
- 53184 multiletter control sequences out of 15000+600000
- 22123 words of font info for 118 fonts, out of 8000000 for 9000
+ 50843 strings out of 493638
+ 963266 string characters out of 6146796
+ 1335743 words of memory out of 5000000
+ 53193 multiletter control sequences out of 15000+600000
+ 22131 words of font info for 119 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  64i,17n,98p,13173b,2004s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.pdf (76 pages).
+Output written on Thesis.pdf (82 pages).

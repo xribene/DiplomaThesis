@@ -891,6 +891,55 @@
   \field{year}{2012}
 \endentry
 
+\entry{Lin2007-jt}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Lin}{L.}%
+     {Zhonglin}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhang}{Z.}%
+     {Changshui}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wu}{W.}%
+     {Wei}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gao}{G.}%
+     {Xiaorong}{X.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{LZ+1}
+  \strng{fullhash}{LZZCWWGX1}
+  \field{sortinit}{L}
+  \field{abstract}{%
+  Canonical correlation analysis (CCA) is applied to analyze the frequency
+  components of steady-state visual evoked potentials (SSVEP) in
+  electroencephalogram (EEG). The essence of this method is to extract a
+  narrowband frequency component of SSVEP in EEG. A recognition approach is
+  proposed based on the extracted frequency features for an SSVEP-based brain
+  computer interface (BCI). Recognition Results of the approach were higher
+  than those using a widely used FFT (fast Fourier transform)-based spectrum
+  estimation method.%
+  }
+  \field{number}{6 Pt 2}
+  \field{pages}{1172\bibrangedash 1176}
+  \field{title}{Frequency recognition based on canonical correlation analysis
+  for {SSVEP-based} {BCIs}}
+  \field{volume}{54}
+  \field{journaltitle}{IEEE Trans. Biomed. Eng.}
+  \field{month}{06}
+  \field{year}{2007}
+\endentry
+
 \entry{lopez2014dry}{article}{}
   \name{author}{3}{}{%
     {{}%
@@ -1064,6 +1113,64 @@
   \field{journaltitle}{Science}
   \field{month}{11}
   \field{year}{2001}
+\endentry
+
+\entry{Nakanishi2015-md}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Nakanishi}{N.}%
+     {Masaki}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Yijun}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Yu-Te}{Y.-T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jung}{J.}%
+     {Tzyy-Ping}{T.-P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{NM+1}
+  \strng{fullhash}{NMWYWYTJTP1}
+  \field{sortinit}{N}
+  \field{abstract}{%
+  Canonical correlation analysis (CCA) has been widely used in the detection of
+  the steady-state visual evoked potentials (SSVEPs) in brain-computer
+  interfaces (BCIs). The standard CCA method, which uses sinusoidal signals as
+  reference signals, was first proposed for SSVEP detection without
+  calibration. However, the detection performance can be deteriorated by the
+  interference from the spontaneous EEG activities. Recently, various extended
+  methods have been developed to incorporate individual EEG calibration data in
+  CCA to improve the detection performance. Although advantages of the extended
+  CCA methods have been demonstrated in separate studies, a comprehensive
+  comparison between these methods is still missing. This study performed a
+  comparison of the existing CCA-based SSVEP detection methods using a 12-class
+  SSVEP dataset recorded from 10 subjects in a simulated online BCI experiment.
+  Classification accuracy and information transfer rate (ITR) were used for
+  performance evaluation. The results suggest that individual calibration data
+  can significantly improve the detection performance. Furthermore, the results
+  showed that the combination method based on the standard CCA and the
+  individual template based CCA (IT-CCA) achieved the highest performance.%
+  }
+  \field{number}{10}
+  \field{pages}{e0140703}
+  \field{title}{A Comparison Study of Canonical Correlation Analysis Based
+  Methods for Detecting {Steady-State} Visual Evoked Potentials}
+  \field{volume}{10}
+  \field{journaltitle}{PLoS One}
+  \field{month}{10}
+  \field{year}{2015}
 \endentry
 
 \entry{nicolas2012brain}{article}{}
@@ -2118,7 +2225,6 @@
   \field{title}{Ανάλυση Eeg Και Eog Σημάτων Με
   Ευφυείς Τεχνικές Για Τηλεκίνηση Rc
   Αμαξιδίου}
-  \field{journaltitle}{Medical Engineering and Physics}
   \field{year}{2018}
 \endentry
 

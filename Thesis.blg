@@ -19,50 +19,52 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 11950 items from 5000.
+Reallocated field_info (elt_size=4) to 12367 items from 5000.
 Database file #1: Thesis-blx.bib
 Database file #2: mendeley.bib
+Warning--I didn't find a database entry for "Bin2009-lt"
 Biblatex version: 3.3
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 50 entries,
+You've used 52 entries,
             6047 wiz_defined-function locations,
-            1478 strings with 46108 characters,
-and the built_in function-call counts, 172835 in all, are:
-= -- 6758
-> -- 5929
-< -- 1740
-+ -- 2073
-- -- 2130
-* -- 14044
-:= -- 10166
+            1496 strings with 48371 characters,
+and the built_in function-call counts, 179746 in all, are:
+= -- 6993
+> -- 6162
+< -- 1796
++ -- 2146
+- -- 2213
+* -- 14680
+:= -- 10583
 add.period$ -- 0
-call.type$ -- 50
-change.case$ -- 934
-chr.to.int$ -- 184
-cite$ -- 98
-duplicate$ -- 19944
-empty$ -- 17866
-format.name$ -- 3922
-if$ -- 38569
+call.type$ -- 52
+change.case$ -- 960
+chr.to.int$ -- 196
+cite$ -- 102
+duplicate$ -- 20767
+empty$ -- 18608
+format.name$ -- 4092
+if$ -- 40066
 int.to.chr$ -- 0
-int.to.str$ -- 144
+int.to.str$ -- 150
 missing$ -- 0
-newline$ -- 1711
-num.names$ -- 2504
-pop$ -- 15976
+newline$ -- 1792
+num.names$ -- 2596
+pop$ -- 16626
 preamble$ -- 1
-purify$ -- 1116
+purify$ -- 1150
 quote$ -- 0
-skip$ -- 9880
+skip$ -- 10234
 stack$ -- 0
-substring$ -- 4057
-swap$ -- 6967
-text.length$ -- 1409
-text.prefix$ -- 70
+substring$ -- 4182
+swap$ -- 7269
+text.length$ -- 1463
+text.prefix$ -- 72
 top$ -- 1
-type$ -- 1888
+type$ -- 1964
 warning$ -- 0
-while$ -- 1044
+while$ -- 1091
 width$ -- 0
-write$ -- 1660
+write$ -- 1739
+(There was 1 warning)
