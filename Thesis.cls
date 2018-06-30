@@ -120,6 +120,8 @@ edge[every join,#1]#2(\tikzchaincurrent)\fi}}}
 \RequirePackage{setspace}
 \onehalfspacing
 \usepackage{tikz}
+\usepackage{diagbox}
+
 \usepackage{amstext}
 \usepackage{array}
 
